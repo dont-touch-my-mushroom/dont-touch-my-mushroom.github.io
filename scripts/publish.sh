@@ -17,6 +17,16 @@ HOMEPAGE=$(nix-build --no-out-link)
 GIT=$(nix-build --no-out-link ./nix/pkgs.nix -A git)/bin/git
 GITREV=$($GIT show-ref -s HEAD)
 
+if test -n "$(git status --porcelain)"; then
+    echo "!!! repository has uncomitted changes" >&2
+    exit 1
+fi
+
+if test -n "$(cd publish; git status --porcelain)"; then
+    echo "!!! publish sub repository has uncomitted changes" >&2
+    exit 2
+fi
+
 echo "=== Updating publish submodule"
 $GIT submodule update --remote
 
