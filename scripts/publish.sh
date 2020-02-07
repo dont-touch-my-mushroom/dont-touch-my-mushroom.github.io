@@ -22,13 +22,10 @@ if test -n "$(git status --porcelain)"; then
     exit 1
 fi
 
-if test -n "$(cd publish; git status --porcelain)"; then
-    echo "!!! publish sub repository has uncomitted changes" >&2
-    exit 2
-fi
-
-echo "=== Updating publish submodule"
-$GIT submodule update --remote
+echo "=== Populating publish"
+$GIT fetch
+rm -rf publish
+$GIT clone -l -b master . publish
 
 echo "=== Copy homepage files to master in publish directory"
 nix run "(import ./nix/pkgs.nix).rsync" -c \
@@ -37,14 +34,14 @@ nix run "(import ./nix/pkgs.nix).rsync" -c \
 echo "=== Committing generated homepage files"
 cd "$PROJECT_DIR/publish"
 echo "www.dont-tou.ch" >CNAME
+
+if ! test -n "$(git status --porcelain)"; then
+    echo "!!! No changes to commit in generated output" >&2
+    exit 2
+fi
+
 $GIT add .
 $GIT commit -m "Generated files from ${GITREV}"
-$GIT push
-
-cd "$PROJECT_DIR"
-$GIT push --recurse-submodules=on-demand
-$GIT commit -m "Published ${GITREV}" -- publish
 
 echo "========= Pushing ============================="
-cd "$PROJECT_DIR"
-$GIT push --recurse-submodules=on-demand
+$GIT push
