@@ -20,19 +20,20 @@ in stdenv.mkDerivation {
     pkgs.git
     pkgs.bundix
     pkgs.rsync
+    sources.niv
   ] ++ default.buildInputs;
 
   shellHook = ''
     echo "# Rendering locally"
     echo "  1. Run 'jekyll serve'"
     echo "  2. Open http://localhost:4000/"
+    echo "# Publish"
+    echo "  1. Run './scripts/publish.sh'"
+    echo "  2. Check webpage"
     echo "# Update dependencies"
     echo "  1. Run 'bundle update'"
     echo "  2. Run 'bundix'"
     echo "  3. Try if 'nix-build' still works"
-    echo "# Build the website"
-    echo "  (does not deploy it)
-    echo "  1. Run 'nix-build'"
-    echo "  2. Result is in ./result"
+
   '';
 }

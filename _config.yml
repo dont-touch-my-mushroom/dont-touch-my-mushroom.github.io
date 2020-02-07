@@ -59,4 +59,5 @@ exclude:
   - scripts
   - docs
   - nix
+  - publish
   - "*.nix"

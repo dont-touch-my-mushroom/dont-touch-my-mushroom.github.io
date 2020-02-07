@@ -10,6 +10,9 @@ name: type:
       # Filter out build results
       (type == "directory" && (
         baseName == "target" ||
+        baseName == "publish" ||
+        baseName == "scripts" ||
+        baseName == "nix" ||
         baseName == "dev" ||
         baseName == "_site" ||
         baseName == ".sass-cache" ||
@@ -30,13 +33,6 @@ name: type:
       # Filter out nix build files
       lib.hasSuffix ".nix" baseName ||
       
-      # Filter out nix helper scripts
-      baseName == "install_fmt_clippy.sh" ||
-      baseName == "prepare_commit.sh" ||
-      baseName == "run-carnix.sh" ||
-      baseName == "update-deps.sh" ||
-      baseName == "node2nix.sh" ||
-
       # Filter out editor backup / swap files.
       lib.hasSuffix "~" baseName ||
       builtins.match "^\\.sw[a-z]$" baseName != null ||
@@ -45,8 +41,7 @@ name: type:
       lib.hasSuffix ".bak" baseName ||
 
       # Temp files during development
-      baseName == "Procfile" ||
-      baseName == "perf.data" ||
+      lib.hasSuffix ".log" baseName ||
       lib.hasSuffix ".o" baseName ||
       lib.hasSuffix ".so" baseName
     )
