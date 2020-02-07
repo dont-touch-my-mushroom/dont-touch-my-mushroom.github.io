@@ -18,17 +18,17 @@ $GIT pull origin master
 echo "========= Copy homepage files to master ==================="
 
 nix run "(import ./nix/pkgs.nix).rsync" -c \
-    rsync -avLk --exclude='.git/' "$HOMEPAGE/" .
+    rsync -RvLk --exclude='.git/' --delete "$HOMEPAGE/" .
 
 echo "========= Committing homepage files to master =============="
 
-# $GIT add .
-# $GIT commit -m "Generated files from ${GITREV}"
+$GIT add .
+$GIT commit -m "Generated files from ${GITREV}"
 
 echo "========= Pushing homepage files to master ================="
 
-# $GIT push origin master
+$GIT push origin master
 
 echo "========= Returning to $BRANCH============= ================="
 
-# $GIT checkout $BRANCH
+$GIT checkout $BRANCH
