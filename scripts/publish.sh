@@ -15,6 +15,7 @@ PROJECT_DIR="$(pwd)"
 echo "=== Building home page / git"
 HOMEPAGE=$(nix-build --no-out-link)
 GIT=$(nix-build --no-out-link ./nix/pkgs.nix -A git)/bin/git
+GITREV=$($GIT show-ref -s HEAD)
 
 echo "=== Updating publish submodule"
 $GIT submodule update --remote
