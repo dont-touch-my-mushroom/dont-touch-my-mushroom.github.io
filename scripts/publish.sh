@@ -21,10 +21,11 @@ $GIT submodule update --remote
 
 echo "=== Copy homepage files to master in publish directory"
 nix run "(import ./nix/pkgs.nix).rsync" -c \
-    rsync -rvLk --exclude='.git/' --delete "$HOMEPAGE/" "$PROJECT_DIR/publish"
+    rsync -rvLk --exclude='.git' --delete "$HOMEPAGE/" "$PROJECT_DIR/publish"
 
 echo "=== Committing generated homepage files"
 cd "$PROJECT_DIR/publish"
+
 $GIT add .
 $GIT commit -m "Generated files from ${GITREV}"
 
