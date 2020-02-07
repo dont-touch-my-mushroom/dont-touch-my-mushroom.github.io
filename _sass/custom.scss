@@ -1,0 +1,26 @@
+/*- Custom style -*/
+
+// -- Put custom style under this point -- //
+
+h2 {
+  // color: $main-color;
+}
+
+/* Custom Form */
+
+form {
+  input, textarea {
+    width: 100%;
+  }
+}
+
+/* Custom Footer */
+
+footer a {
+  background-color: $main-color;
+  color: $background-color;
+
+  &:hover {
+    color: lighten($background-color, 5%);
+  }
+}
