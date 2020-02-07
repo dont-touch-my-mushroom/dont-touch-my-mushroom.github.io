@@ -18,7 +18,7 @@ $GIT pull origin master
 echo "========= Copy homepage files to master ==================="
 
 nix run "(import ./nix/pkgs.nix).rsync" -c \
-    rsync -RvLk --exclude='.git/' --delete "$HOMEPAGE/" .
+    rsync -rvLk --exclude='.git/' --delete "$HOMEPAGE/" .
 
 echo "========= Committing homepage files to master =============="
 
