@@ -26,7 +26,7 @@ nix run "(import ./nix/pkgs.nix).rsync" -c \
 
 echo "=== Committing generated homepage files"
 cd "$PROJECT_DIR/publish"
-
+echo "www.dont-tou.ch" >CNAME
 $GIT add .
 $GIT commit -m "Generated files from ${GITREV}"
 
