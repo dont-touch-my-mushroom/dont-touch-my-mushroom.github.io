@@ -1,5 +1,5 @@
 {
-  siteUrl? "https://dont-touch-my-mushroom.github.io",
+  siteUrl? "https://dont-tou.ch",
   pkgs? import ./nix/pkgs.nix,
   stdenv? pkgs.stdenv,
   lib? pkgs.lib,
