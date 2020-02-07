@@ -39,6 +39,7 @@ cd "$PROJECT_DIR/publish"
 echo "www.dont-tou.ch" >CNAME
 $GIT add .
 $GIT commit -m "Generated files from ${GITREV}"
+$GIT push
 
 cd "$PROJECT_DIR"
 $GIT push --recurse-submodules=on-demand
