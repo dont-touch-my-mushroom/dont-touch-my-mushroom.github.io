@@ -1,11 +1,17 @@
 #!/usr/bin/env bash
 
-cd $(dirname "$0")/..
-nix-build || {
-    echo "Building page failed." >&2
-    exit 1
-}
+set -ex
 
-mkdir -p docs
-nix run "(import ./nix/pkgs.nix).rsync" \ 
-    rsync -avLk --delete result/ docs
+cd $(dirname "$0")/..
+HOMEPAGE=$(nix-build)
+
+GIT=$(nix-build ./nix/pkgs.nix -A git)/bin/git
+GITREV=$(git rev-parse HEAD)
+$GIT checkout master
+
+nix run "(import ./nix/pkgs.nix).rsync" -c \
+    rsync -avLk --delete "$BUILD" .
+
+$GIT add .
+$GIT commit -m "Generated files from ${GITREV}"
+$GIT push origin master
