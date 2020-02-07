@@ -24,16 +24,7 @@ in stdenv.mkDerivation {
   ] ++ default.buildInputs;
 
   shellHook = ''
-    echo "# Rendering locally"
-    echo "  1. Run 'jekyll serve'"
-    echo "  2. Open http://localhost:4000/"
-    echo "# Publish"
-    echo "  1. Run './scripts/publish.sh'"
-    echo "  2. Check webpage"
-    echo "# Update dependencies"
-    echo "  1. Run 'bundle update'"
-    echo "  2. Run 'bundix'"
-    echo "  3. Try if 'nix-build' still works"
-
+    echo "Check README.md for instruction on how to"
+    grep -e '^##' README.md
   '';
 }

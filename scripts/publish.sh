@@ -13,6 +13,7 @@ cd $(dirname "$0")/..
 PROJECT_DIR="$(pwd)"    
 
 echo "=== Building home page / git"
+date
 HOMEPAGE=$(nix-build --no-out-link)
 GIT=$(nix-build --no-out-link ./nix/pkgs.nix -A git)/bin/git
 GITREV=$($GIT show-ref -s HEAD)
@@ -23,15 +24,18 @@ if test -n "$(git status --porcelain)"; then
 fi
 
 echo "=== Populating publish"
+date
 $GIT fetch
 rm -rf publish
 $GIT clone -l -b master . publish
 
 echo "=== Copy homepage files to master in publish directory"
+date
 nix run "(import ./nix/pkgs.nix).rsync" -c \
     rsync -rvLk --exclude='.git' --delete "$HOMEPAGE/" "$PROJECT_DIR/publish"
 
 echo "=== Committing generated homepage files"
+date
 cd "$PROJECT_DIR/publish"
 echo "www.dont-tou.ch" >CNAME
 
@@ -44,4 +48,11 @@ $GIT add .
 $GIT commit -m "Generated files from ${GITREV}"
 
 echo "========= Pushing ============================="
+date 
 $GIT push
+
+echo "========= DONE! ============================="
+date
+
+echo "Check the result at https://www.dont-tou.ch"
+echo "or http://www.dont-tou.ch if that's still broken."
