@@ -56,3 +56,7 @@ reverse: false
 exclude:
   - Gemfile
   - Gemfile.lock
+  - scripts
+  - docs
+  - nix
+  - "*.nix"

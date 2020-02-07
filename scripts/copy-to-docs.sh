@@ -8,4 +8,4 @@ nix-build || {
 
 mkdir -p docs
 nix run "(import ./nix/pkgs.nix).rsync" \ 
-    rsync -avz --delete result/* docs/
+    rsync -avLk --delete result/ docs

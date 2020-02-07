@@ -1,5 +1,5 @@
 {
-  siteUrl? "http://localhost:4000",
+  siteUrl? "https://dont-touch-my-mushroom.github.io",
   pkgs? import ./nix/pkgs.nix,
   stdenv? pkgs.stdenv,
   lib? pkgs.lib,
@@ -30,10 +30,8 @@ in stdenv.mkDerivation {
   phases = [ "unpackPhase" "installPhase" ];
   buildInputs = [
     jekyllEnv
-    pkgs.zopfli
   ];
   installPhase = ''
     jekyll build --config _config.yml,${configSite} --destination $out
-    zopfli $out/{,css/}*{.svg,.css,.html}
   '';
 }
