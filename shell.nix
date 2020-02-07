@@ -1,6 +1,6 @@
 let
   sources = import ./nix/sources.nix;
-  _pkgs = import sources.nixpkgs {};
+  _pkgs = import ./nix/pkgs.nix;
 
 in {
   pkgs? _pkgs,
@@ -19,6 +19,7 @@ in stdenv.mkDerivation {
     ruby.devEnv
     pkgs.git
     pkgs.bundix
+    pkgs.rsync
   ] ++ default.buildInputs;
 
   shellHook = ''

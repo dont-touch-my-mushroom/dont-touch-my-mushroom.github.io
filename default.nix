@@ -1,10 +1,6 @@
-let
-  sources = import ./nix/sources.nix;
-  _pkgs = import sources.nixpkgs {};
-
-in {
+{
   siteUrl? "http://localhost:4000",
-  pkgs? _pkgs,
+  pkgs? import ./nix/pkgs.nix,
   stdenv? pkgs.stdenv,
   lib? pkgs.lib,
   bundlerEnv? pkgs.bundlerEnv,
@@ -23,7 +19,7 @@ let
     lockfile = ./Gemfile.lock;
     gemset = ./gemset.nix;
   };
-  sourceFilter = (import ./source-filter.nix) { inherit lib; };
+  sourceFilter = (import ./nix/source-filter.nix) { inherit lib; };
   configSite = pkgs.writeTextFile {
     name = "_config.yml";
     text = builtins.toJSON { url = siteUrl; };
