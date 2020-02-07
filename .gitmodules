@@ -1,4 +1,0 @@
-[submodule "publish"]
-	path = publish
-	url = git@github.com:dont-touch-my-mushroom/dont-touch-my-mushroom.github.io.git
-	branch = master
