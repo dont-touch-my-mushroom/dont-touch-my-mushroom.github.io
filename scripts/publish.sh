@@ -27,6 +27,7 @@ echo "=== Populating publish"
 date
 $GIT fetch
 rm -rf publish
+$GIT branch -f master origin/master
 $GIT clone -l -b master . publish
 
 echo "=== Copy homepage files to master in publish directory"
@@ -49,7 +50,11 @@ $GIT commit -m "Generated files from ${GITREV}"
 
 echo "========= Pushing ============================="
 date 
+# this pushes to the main checkout
 $GIT push
+cd "$PROJECT_DIR"
+# this pushes from main checkout to github
+$GIT push origin master
 
 echo "========= DONE! ============================="
 date
