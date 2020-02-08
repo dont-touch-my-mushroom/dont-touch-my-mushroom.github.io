@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Don't Touch My Mushroom</title>
- <link href="https://www.dont-tou.ch/atom.xml" rel="self"/>
- <id>https://www.dont-tou.ch</id>
- <updated>2020-02-08T10:41:18+00:00</updated>
+ <link href="https://dont-tou.ch/atom.xml" rel="self"/>
+ <id>https://dont-tou.ch</id>
+ <updated>2020-02-08T10:42:25+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -15,58 +15,58 @@
 
  <entry>
    <title>Mushrooms on Stage</title>
-   <link href="https://www.dont-tou.ch/mushroom-on-stage"/>
-   <id>https://www.dont-tou.ch/mushroom-on-stage</id>
+   <link href="https://dont-tou.ch/mushroom-on-stage"/>
+   <id>https://dont-tou.ch/mushroom-on-stage</id>
    <updated>2020-02-20T19:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.dont-tou.ch/img/2020-02-20-flyer.jpeg&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Improtheater ist das, was passiert, wenn nicht mal die Schauspieler wissen, was passieren wird.&lt;/p&gt; &lt;p&gt;Ein Spektakel! Du gestaltest das Theater mit und gibst den SchauspielerInnen Stichworte. Nach diesem Abend läufst du vielleicht nicht intelligenter nach Hause, auf alle Fälle aber glücklicher.&lt;/p&gt; &lt;p&gt;Improv is what happens when...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dont-tou.ch/img/2020-02-20-flyer.jpeg&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Improtheater ist das, was passiert, wenn nicht mal die Schauspieler wissen, was passieren wird.&lt;/p&gt; &lt;p&gt;Ein Spektakel! Du gestaltest das Theater mit und gibst den SchauspielerInnen Stichworte. Nach diesem Abend läufst du vielleicht nicht intelligenter nach Hause, auf alle Fälle aber glücklicher.&lt;/p&gt; &lt;p&gt;Improv is what happens when...</content>
  </entry>
 
  
 
  <entry>
    <title>Wombats vs Mushrooms - Impro Battle</title>
-   <link href="https://www.dont-tou.ch/wombats-battle"/>
-   <id>https://www.dont-tou.ch/wombats-battle</id>
+   <link href="https://dont-tou.ch/wombats-battle"/>
+   <id>https://dont-tou.ch/wombats-battle</id>
    <updated>2020-01-23T19:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.dont-tou.ch/img/2020-01-23-flyer.png&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;The prophecy says that in 2020 a new generation of improv show will emerge. Only the bravest improvisers will dare challenge the mighty &lt;strong&gt;Don’t Touch My Mushroom&lt;/strong&gt;. In this first edition, the &lt;strong&gt;Wisdom of Wombats&lt;/strong&gt; have answered the calling. Who will become the winner of the...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dont-tou.ch/img/2020-01-23-flyer.png&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;The prophecy says that in 2020 a new generation of improv show will emerge. Only the bravest improvisers will dare challenge the mighty &lt;strong&gt;Don’t Touch My Mushroom&lt;/strong&gt;. In this first edition, the &lt;strong&gt;Wisdom of Wombats&lt;/strong&gt; have answered the calling. Who will become the winner of the...</content>
  </entry>
 
  
 
  <entry>
    <title>Mushroom Harvest</title>
-   <link href="https://www.dont-tou.ch/harvest"/>
-   <id>https://www.dont-tou.ch/harvest</id>
+   <link href="https://dont-tou.ch/harvest"/>
+   <id>https://dont-tou.ch/harvest</id>
    <updated>2019-11-13T19:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.dont-tou.ch/img/2019-11-13-flyer.png&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members!&lt;/p&gt; &lt;p&gt;Thanksgiving can be the land of any inspiration. Come for a fantastical time full of unexpected surprises....</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dont-tou.ch/img/2019-11-13-flyer.png&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members!&lt;/p&gt; &lt;p&gt;Thanksgiving can be the land of any inspiration. Come for a fantastical time full of unexpected surprises....</content>
  </entry>
 
  
 
  <entry>
    <title>IMPRO CHÄLLER presents Impro Match</title>
-   <link href="https://www.dont-tou.ch/improchaeller"/>
-   <id>https://www.dont-tou.ch/improchaeller</id>
+   <link href="https://dont-tou.ch/improchaeller"/>
+   <id>https://dont-tou.ch/improchaeller</id>
    <updated>2019-09-25T17:30:00+00:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.dont-tou.ch/img/2019-09-25-flyer.png&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Impro Match in English.&lt;/p&gt; &lt;p&gt;Join us in Improchaeller for a friendly impro contest between “Berta Pan”🍳 and “Don’t Touch My Mushroom”🍄. Crazy short forms will test their improv skills, make you laugh and wonder. You get to choose the winner!&lt;/p&gt; &lt;p&gt;Date: Wednesday 25 September 2019 Door...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dont-tou.ch/img/2019-09-25-flyer.png&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Impro Match in English.&lt;/p&gt; &lt;p&gt;Join us in Improchaeller for a friendly impro contest between “Berta Pan”🍳 and “Don’t Touch My Mushroom”🍄. Crazy short forms will test their improv skills, make you laugh and wonder. You get to choose the winner!&lt;/p&gt; &lt;p&gt;Date: Wednesday 25 September 2019 Door...</content>
  </entry>
 
  
 
  <entry>
    <title>Between 2 Worlds</title>
-   <link href="https://www.dont-tou.ch/between_two_worlds"/>
-   <id>https://www.dont-tou.ch/between_two_worlds</id>
+   <link href="https://dont-tou.ch/between_two_worlds"/>
+   <id>https://dont-tou.ch/between_two_worlds</id>
    <updated>2019-08-29T17:30:00+00:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.dont-tou.ch/img/2019-08-29-flyer.jpg&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members!&lt;/p&gt; &lt;p&gt;The gap between worlds will become narrow this night. Come for a fantastical time full of unexpected...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dont-tou.ch/img/2019-08-29-flyer.jpg&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members!&lt;/p&gt; &lt;p&gt;The gap between worlds will become narrow this night. Come for a fantastical time full of unexpected...</content>
  </entry>
 
  
 
  <entry>
    <title>Drawing Lines</title>
-   <link href="https://www.dont-tou.ch/crossing_lines"/>
-   <id>https://www.dont-tou.ch/crossing_lines</id>
+   <link href="https://dont-tou.ch/crossing_lines"/>
+   <id>https://dont-tou.ch/crossing_lines</id>
    <updated>2019-06-14T18:30:00+00:00</updated>
    <content type="html">&lt;p&gt;19:30 Apero, 20:00 Start of the Performance&lt;/p&gt; &lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members!&lt;/p&gt; &lt;p&gt;Come and see the Mushrooms performing a new spectacle, based on Jenseits’ monthly theme:...</content>
  </entry>
@@ -75,40 +75,40 @@
 
  <entry>
    <title>Making Sense of Senses</title>
-   <link href="https://www.dont-tou.ch/making_sense_of_senses"/>
-   <id>https://www.dont-tou.ch/making_sense_of_senses</id>
+   <link href="https://dont-tou.ch/making_sense_of_senses"/>
+   <id>https://dont-tou.ch/making_sense_of_senses</id>
    <updated>2019-04-04T19:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.dont-tou.ch/img/2019-04-04-flyer.png&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Making Sense of Senses&lt;/p&gt; &lt;p&gt;This show is based on jenseits’ seasonal theme “sense and senses.” Do mushrooms have a special sense to react and improvise on cue thrown at them? Can they smell what their fellows think? Come and discover how (un)believable stories are created in...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dont-tou.ch/img/2019-04-04-flyer.png&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Making Sense of Senses&lt;/p&gt; &lt;p&gt;This show is based on jenseits’ seasonal theme “sense and senses.” Do mushrooms have a special sense to react and improvise on cue thrown at them? Can they smell what their fellows think? Come and discover how (un)believable stories are created in...</content>
  </entry>
 
  
 
  <entry>
    <title>Where fungi feel at home...</title>
-   <link href="https://www.dont-tou.ch/where_fungi_feel_at_home"/>
-   <id>https://www.dont-tou.ch/where_fungi_feel_at_home</id>
+   <link href="https://dont-tou.ch/where_fungi_feel_at_home"/>
+   <id>https://dont-tou.ch/where_fungi_feel_at_home</id>
    <updated>2019-02-14T19:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.dont-tou.ch/img/2019-02-14-flyer.png&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Where fungi feel at home…&lt;/p&gt; &lt;p&gt;Join us to laugh with and at one of the few (and therefore one of the best!) Zurich’s international improv theatre troupes, Don’t Touch My Mushroom. Once again, the fungi’s show will be unscripted, unpredictable, unhinged, and inspired by you, the...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dont-tou.ch/img/2019-02-14-flyer.png&quot; alt=&quot;Flyer&quot; /&gt;&lt;/p&gt; &lt;p&gt;Where fungi feel at home…&lt;/p&gt; &lt;p&gt;Join us to laugh with and at one of the few (and therefore one of the best!) Zurich’s international improv theatre troupes, Don’t Touch My Mushroom. Once again, the fungi’s show will be unscripted, unpredictable, unhinged, and inspired by you, the...</content>
  </entry>
 
  
 
  <entry>
    <title>Improv Tales of 1001 Night</title>
-   <link href="https://www.dont-tou.ch/wombats_mushroom"/>
-   <id>https://www.dont-tou.ch/wombats_mushroom</id>
+   <link href="https://dont-tou.ch/wombats_mushroom"/>
+   <id>https://dont-tou.ch/wombats_mushroom</id>
    <updated>2018-11-27T19:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.dont-tou.ch/img/2018-11-27-flyer.png&quot; alt=&quot;Flyer&quot; /&gt; Improv Tales of 1001 Night!&lt;/p&gt; &lt;p&gt;Don’t Touch My Mushroom will be hosted on this occasion by our friends from &lt;a href=&quot;https://wombats.ch&quot;&gt;Wisdom of Wombats&lt;/a&gt;. We will create improv scenes based on real-life tales of humour, tragedy, love, different kind of stories, new fairy tales, anything with a...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dont-tou.ch/img/2018-11-27-flyer.png&quot; alt=&quot;Flyer&quot; /&gt; Improv Tales of 1001 Night!&lt;/p&gt; &lt;p&gt;Don’t Touch My Mushroom will be hosted on this occasion by our friends from &lt;a href=&quot;https://wombats.ch&quot;&gt;Wisdom of Wombats&lt;/a&gt;. We will create improv scenes based on real-life tales of humour, tragedy, love, different kind of stories, new fairy tales, anything with a...</content>
  </entry>
 
  
 
  <entry>
    <title>Sporeadic Fungi Improv</title>
-   <link href="https://www.dont-tou.ch/dentist_butterfly"/>
-   <id>https://www.dont-tou.ch/dentist_butterfly</id>
+   <link href="https://dont-tou.ch/dentist_butterfly"/>
+   <id>https://dont-tou.ch/dentist_butterfly</id>
    <updated>2018-09-25T19:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://www.dont-tou.ch/img/2018-09-25-flyer.png&quot; alt=&quot;Flyer&quot; /&gt; Sporeadic Fungi Improv!&lt;/p&gt; &lt;p&gt;Join us to laugh with and at one of the few (and therefore one of the best!) Zurich’s international improv theatre troupe: The Don’t Touch my Mushroom team. Once again, the fungi’s show will be unscripted, unpredictable, unhinged, and inspired by you, the...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dont-tou.ch/img/2018-09-25-flyer.png&quot; alt=&quot;Flyer&quot; /&gt; Sporeadic Fungi Improv!&lt;/p&gt; &lt;p&gt;Join us to laugh with and at one of the few (and therefore one of the best!) Zurich’s international improv theatre troupe: The Don’t Touch my Mushroom team. Once again, the fungi’s show will be unscripted, unpredictable, unhinged, and inspired by you, the...</content>
  </entry>
 
  
