@@ -1,5 +1,5 @@
 {
-  siteUrl? "https://www.dont-tou.ch",
+  siteUrl? "http://www.dont-tou.ch",
   pkgs? import ./nix/pkgs.nix,
   stdenv? pkgs.stdenv,
   lib? pkgs.lib,
