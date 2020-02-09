@@ -1,5 +1,5 @@
 {
-  siteUrl? "https://www.dont-tou.ch",
+  siteUrl? "https://${builtins.readFile ./CNAME}",
   pkgs? import ./nix/pkgs.nix,
   stdenv? pkgs.stdenv,
   lib? pkgs.lib,
