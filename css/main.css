@@ -664,3 +664,6 @@ footer a {
   color: #FDFDFD; }
   footer a:hover {
     color: white; }
+
+#header h1 {
+  padding-bottom: 0.6em; }
