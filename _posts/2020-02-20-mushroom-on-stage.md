@@ -7,11 +7,6 @@ categories: show
 
 ![Flyer]({{ "/img/2020-02-20-flyer.jpeg" | absolute_url }})
 
-Improtheater ist das, was passiert, wenn nicht mal die Schauspieler wissen, was passieren wird.
-
-Ein Spektakel! Du gestaltest das Theater mit und gibst den SchauspielerInnen Stichworte.
-Nach diesem Abend läufst du vielleicht nicht intelligenter nach Hause, auf alle Fälle aber glücklicher.
-
 Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members!
 You will not walk out smarter, but you will walk out happier!
 
