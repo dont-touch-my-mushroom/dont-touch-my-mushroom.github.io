@@ -12,6 +12,7 @@ experience is welcome.
 * Join our mailing list
   [improv-zurich](https://groups.google.com/forum/#!forum/improv-zurich/join).
 * Introduce yourself informally. A "Hi" is fine, but you can go fancy ;)
+* Check for emails to make sure the session is happening.
 * Show up.
 
 ## Where is it?
@@ -28,15 +29,17 @@ session -- e.g. CHF 10.
 
 We might change this if this doesn't work out but so far it is looking good.
 
-## Sessions 2020 January - June
+## When is it?
 
-The sessions are from 19:00 until 21:00.
+The sessions take place from **19:00 until 21:00**.
+
+### Sessions 2020 January - June
 
 | Month   | Days   |
 |---------|--------|
-|Januar   |16. 30. |
-|Februar  |13. 27. |
-|März 	  |12. 26. |
+|January   |16. 30. |
+|February  |13. 27. |
+|March 	  |12. 26. |
 |April 	  |9. 23.  |
-|Mai 	  | (none) |		
-|Juni	  |4. 18.  |
+|May 	  | (none) |
+|June	  |4. 18.  |
