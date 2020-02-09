@@ -38,7 +38,7 @@ nix run "(import ./nix/pkgs.nix).rsync" -c \
 echo "=== Committing generated homepage files"
 date
 cd "$PROJECT_DIR/publish"
-echo "www.dont-tou.ch" >CNAME
+echo ../CNAME CNAME
 
 if ! test -n "$(git status --porcelain)"; then
     echo "!!! No changes to commit in generated output" >&2
