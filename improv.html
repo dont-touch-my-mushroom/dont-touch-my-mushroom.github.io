@@ -1,0 +1,27 @@
+---
+layout: blog
+title: Do some Improv
+group: navigation
+tags : []
+author : Don't Touch My Mushroom
+css:
+js:
+keywords: improv
+canonical: https://dont-tou.ch/improv
+---
+{% include JB/setup %}
+
+
+{% for post in site.posts %}
+	  <div class="blog-block post-content-area">
+	   {% if post.img %}
+            <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image">
+	   {% endif %}
+            <div class="blog-post">
+              <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+	      <p>{{ post.excerpt }}</p>
+              <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Read More</a>
+            </div>
+          </div>
+	  <div class="mb-60"></div>
+{% endfor %}
