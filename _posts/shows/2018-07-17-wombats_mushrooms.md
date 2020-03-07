@@ -6,10 +6,10 @@ categories: show
 img : 2018-07-17-flyer.png
 ---
 Wombats and Mushrooms play together!
-
+<!--more-->
 Join us to watch and laugh with and at two Zurich’s international improv theatre troupes playing together:
 the *Wisdom of Wombats* ([https://wombats.ch](https://wombats.ch)) and the *Don’t Touch my Mushroom* teams.
-<!--more-->
+
 The show is unscripted, unpredictable, unhinged, and inspired by you, the audience. You will hear epic stories about famous people that never existed, jokes so bad that they are actually good, and real good jokes. All of this created in front of your eyes and sprinkled with a variety of foreign accents!
 
 The show is in English. Please register also through

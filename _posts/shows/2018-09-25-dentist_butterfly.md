@@ -8,9 +8,9 @@ img : 2018-09-25-flyer.png
 Sporeadic Fungi Improv!
 
 Join us to laugh with and at one of the few (and therefore one of the best!) Zurich's international
-improv theatre troupe: The Don't Touch my Mushroom team. Once again, the fungi’s show will be unscripted,
+improv theatre troupe: The Don't Touch my Mushroom team.<!--more--> Once again, the fungi’s show will be unscripted,
 unpredictable, unhinged, and inspired by you, the audience. You will not walk out smarter, but you will
-walk out happier.<!--more--> You might also learn some alternative facts created out of your suggestions and of
+walk out happier. You might also learn some alternative facts created out of your suggestions and of
 the players’ random neuron connections. All of this sprinkled with a variety of foreign accents!
 
 The show is in English. Also see

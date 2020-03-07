@@ -8,9 +8,9 @@ categories: show
 19:30 Apero, 20:00 Start of the Performance
 
 Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members!
-
-Come and see the Mushrooms performing a new spectacle, based on Jenseits’ monthly theme: drawing lines. You have probably drawn black lines on mushrooms in the past, when you grilled them on your barbecue, but how can they draw lines on stage? And how does it work in the nature? Can a morel tell a chanterelle “hey chica, your last joke was really borderline, please stop that!”?
 <!--more-->
+Come and see the Mushrooms performing a new spectacle, based on Jenseits’ monthly theme: drawing lines. You have probably drawn black lines on mushrooms in the past, when you grilled them on your barbecue, but how can they draw lines on stage? And how does it work in the nature? Can a morel tell a chanterelle “hey chica, your last joke was really borderline, please stop that!”?
+
 Hope to see you there, for laughter, fairy tails, and pig tales (or the other way around... ) !
 
 You will not walk out smarter, but you will walk out happier!

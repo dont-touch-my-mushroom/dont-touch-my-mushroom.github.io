@@ -7,8 +7,8 @@ img : 2019-04-04-flyer.png
 ---
 Making Sense of Senses
 
-This show is based on jenseits’ seasonal theme "sense and senses." Do mushrooms have a special sense to react and improvise on cue thrown at them? Can they smell what their fellows think? Come and discover how (un)believable stories are created in front of your eyes, based on your suggestions. All of this sprinkled with a variety of foreign accents!
-<!--more-->
+This show is based on jenseits’ seasonal theme "sense and senses."<!--more--> Do mushrooms have a special sense to react and improvise on cue thrown at them? Can they smell what their fellows think? Come and discover how (un)believable stories are created in front of your eyes, based on your suggestions. All of this sprinkled with a variety of foreign accents!
+
 Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members!
 
 You will not walk out smarter, but you will walk out happier!
