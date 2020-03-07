@@ -18,7 +18,11 @@
 //
 // /*- Base color -*/
 //
-// $main-color: #008A3C;
+$hover-color: #008A3C;
+$main-color: #00a447;
+$theme-colors: (
+  "primary": $main-color,
+);
 // $background-color: #FDFDFD;
 // $text-color: #222222;
 //
@@ -31,7 +35,7 @@
 // 		font-size: 18px;
 // 	}
 // 	line-height: 1.5;
-// 	color: $text-color;
+	// color: $text-color;
 // }
 //
 //

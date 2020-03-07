@@ -29,7 +29,24 @@
 //   padding-bottom: 0.6em;
 // }
 
-$primary: #8d021f;
+// $primary: #8d021f;
+//
+// $body-bg: #000;
+// $body-color: #111;
 
-$body-bg: #000;
-$body-color: #111;
+.bg-default {
+  background: $main-color;
+}
+
+.service-box .service-icon i {
+  color: $main-color;
+}
+
+.btn-default-filled {
+  background: $main-color;
+
+  &:hover {
+    background: $hover-color;
+    border: 1px solid $hover-color;
+  }
+}
