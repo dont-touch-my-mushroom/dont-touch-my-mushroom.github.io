@@ -5,8 +5,6 @@ date:   2019-09-25 19:30:00 +0200
 categories: show
 img: 2019-09-25-flyer.png
 ---
-Impro Match in English.
-
 Join us in Improchaeller for a friendly impro contest between "Berta Pan"🍳 and "Don't Touch My Mushroom"🍄. Crazy short forms will test their improv skills, make you laugh and wonder. You get to choose the winner!
 <!--more-->
 Date: Wednesday 25 September 2019

@@ -5,8 +5,6 @@ date:   2019-02-14 20:00:00 +0100
 categories: show
 img : 2019-02-14-flyer.png
 ---
-Where fungi feel at home…
-
 Join us to laugh with and at one of the few (and therefore one of the best!) Zurich’s international improv theatre troupes, Don’t Touch My Mushroom. Once again, the fungi’s show will be unscripted, unpredictable, unhinged, and inspired by you, the audience.
 
 You will not walk out smarter, but you will walk out happier.
