@@ -50,3 +50,15 @@
     border: 1px solid $hover-color;
   }
 }
+
+.navbar {
+  padding: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+
+  &:hover {
+    color: black;
+  }
+}
