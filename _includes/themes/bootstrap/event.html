@@ -1,0 +1,90 @@
+<!-- Post header -->
+<div class="header-style-2">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="event-heading">
+          <h1 class="heading-title ">{{ page.title }}
+            {% if page.categories contains "show" %}
+            <h4 class="sub-title"> - Improv show </h4>
+            {% endif %}
+          </h1>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-8">
+        {% if page.img %}<figure>
+          <img src="{{ BASE_PATH }}/assets/images/{{ page.img }}" alt="{{ page.title }}">
+        </figure>{% endif %}
+      </div>
+
+      <div class="col-sm-12 col-md-4 align-middle">
+        <div class="vertical-flexer"></div>
+        <div class="blog-block about-sidebar-widget white-background">
+          <h4 class="contact-info-title">Event Information</h4>
+          <ul class="contact-info">
+
+            <li>
+              <i class="fa fa-calendar icons cyan-color contact-info-icon"></i> <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+            </li>
+            <li>
+              <i class="fa fa-clock-o icons cyan-color contact-info-icon"></i> <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date: "%H:%M"  }} {% if page.time_end %} - {{ page.time_end }} {% endif %}</time>
+              {% if page.doors_open %} <p> Doors open at {{ page.doors_open }} </p> {% endif %}
+            </li>
+
+            <li>
+              <i class="fa fa-map-marker icons cyan-color contact-info-icon"></i>
+              {{ page.location }}
+            </li>
+            <li>
+              <i class="fa fa-ticket icons cyan-color contact-info-icon"></i>
+              Free entrance
+
+            </li>
+
+            {% if page.facebook %}
+            <li>
+              <a href="{{ page.facebook }}" ><i class="fa fa-facebook icons cyan-color contact-info-icon"></i>
+                Facebook event page</a>
+              </li>
+              {% endif %}
+
+            </ul>
+
+          </div>
+          <div class="vertical-flexer"></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <!-- Post content+sidebar -->
+
+  <div class="margin-bottom-40"></div>
+
+  <!-- Blog content + sidebar -->
+  <section id="post" class="blog">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-9">
+          {% include ads-block.html %}
+          <div class="mb-60"></div>
+          <h3>Description:</h3>
+          {{ content }}
+
+            {% if page.location_link %}
+          <iframe src="{{ page.location_link }}" class="map" frameborder="0" style="border:0" allowfullscreen></iframe>
+              {% endif %}
+          <div class="mb-60"></div>
+          {% include ads-block.html %}
+          <div class="mb-60"></div>
+          {% include JB/comments %}
+        </div>
+        <div class="col-sm-12 col-md-3">
+          {% include side-bar.html %}
+        </div>
+      </div>
+    </div>
+  </section>
