@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Sporeadic Fungi Improv"
 date:   2018-09-25 20:00:00 +0100
 categories: show

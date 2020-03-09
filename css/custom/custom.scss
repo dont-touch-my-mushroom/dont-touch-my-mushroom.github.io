@@ -70,3 +70,44 @@ h3 {
 .align-middle {
   display: grid;
 }
+
+.event-heading {
+margin-bottom: 20px;
+
+  h1 {
+    display: inline;
+  }
+
+  h4 {
+    display: inline;
+  }
+}
+
+.white-background {
+  background-color: white;
+}
+
+.contact-info {
+  p {
+    margin-left: 30px;
+  }
+
+  li {
+
+    margin-bottom: 15px;
+  }
+
+    i {
+    margin-right: 10px;
+    width: 16px;
+  }
+
+  a {
+    font-size: 16px;
+  }
+}
+
+.map {
+  width: 100%;
+  min-height: 450px;
+}

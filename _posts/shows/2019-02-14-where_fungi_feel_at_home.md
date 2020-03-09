@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Where fungi feel at home..."
 date:   2019-02-14 20:00:00 +0100
 categories: show

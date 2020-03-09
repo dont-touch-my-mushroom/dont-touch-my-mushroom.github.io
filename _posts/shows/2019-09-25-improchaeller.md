@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "IMPRO CHÄLLER presents Impro Match"
 date:   2019-09-25 19:30:00 +0200
 categories: show

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Between 2 Worlds"
 date:   2019-08-29 19:30:00 +0200
 categories: show

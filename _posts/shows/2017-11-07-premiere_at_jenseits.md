@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Premiere at Jenseits!"
 date:   2017-11-07 19:00:00 +0100
 categories: show

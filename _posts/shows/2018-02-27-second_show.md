@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "The fungus returns!"
 date:   2018-02-27 20:00:00 +0100
 categories: show
