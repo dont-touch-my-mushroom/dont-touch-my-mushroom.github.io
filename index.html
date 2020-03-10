@@ -72,6 +72,61 @@ canonical: https://dont-tou.ch
       </div>
       <!-- End sliders -->
 
+<!-- Next show -->
+
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign nowunix = nowunix | plus: 0 %}
+{% assign shown = false %}
+
+{% for post in site.posts %}
+  {% if shown != true %}
+  	{% if post.categories contains 'show' or 'workshop' %}
+    {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+    {% assign posttime = posttime | plus: 0 %}
+    {% if nowunix < posttime %}
+
+    <div class="header-style-2">
+      <div class="container">
+        <div class="row">
+
+                  <div class="col-md-4 col-sm-12">
+
+          <div class="hero-content-v2">
+            <h3>Check out our <strong> Next
+                  {% if post.categories contains "show" %} show
+                  {% elsif post.categories contains "workshop" %} workshop
+                  {% else %} event
+                  {% endif %}
+            </strong></h3>
+            <p> {{post.date | date_to_string }}</p>
+            <a href="{{ BASE_PATH }}{{ post.url }}" class="page-scroll btn btn-lg btn-default-filled">Learn More</a>
+          </div>
+
+         </div>
+
+     <div class="col-md-8 col-sm-12">
+  			 <a href="{{ BASE_PATH }}{{ post.url }}">
+  				 <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image">
+  			 </a>
+
+       </div>
+      </div>
+        <div class="row">
+          <div class="mb-60"></div>
+            </div>
+            </div>
+                  </div>
+
+      {% assign shown = true %}
+    	{% endif %}
+  	{% endif %}
+	{% endif %}
+{% endfor %}
+
+<!-- End Next show -->
+
+
+
 
       <div class="mb-60"></div>
 	<div id="features" class="container">
