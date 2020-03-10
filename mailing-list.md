@@ -2,6 +2,7 @@
 layout: page
 title: Mailing List
 permalink: /mailing-list/
+group: navigation
 ---
 
 # Mailing list

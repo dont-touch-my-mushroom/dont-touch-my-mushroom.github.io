@@ -1,15 +1,39 @@
-          <div class="blog-block about-sidebar-widget">
-            <img src="{{ BASE_PATH }}/assets/images/{{ site.author.image }}">
-            <h4><a href="{{ site.author.site }}">{{ site.author.name }}</a></h4>
-            <p>{{ site.author.description }}</p>
-            {% include social-block.html %}
-          </div>
 
-          <div class="mb-60"></div>
-          
+
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign nowunix = nowunix | plus: 0 %}
+
+{% for post in site.posts %}
+	{% if post.categories contains 'show' or 'workshop' %}
+  {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+  {% assign posttime = posttime | plus: 0 %}
+  {% if nowunix < posttime %}
+
+    <div class="blog-block about-sidebar-widget">
+     <h4>Check out our next
+         {% if post.categories contains "show" %} show {% endif %}
+         {% if post.categories contains "workshop" %} workshop {% endif %}
+       !</h4>
+			 <a href="{{ BASE_PATH }}{{ post.url }}">
+				 <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image">
+			 </a>
+     <p>{{post.date | date_to_string }}</p>
+
+    </div>
+    <div class="mb-60"></div>
+  	{% endif %}
+	{% endif %}
+{% endfor %}
+
+
+
+
           <div class="blog-block blog-posts-widget side-bar sticky-top">
             <div class="widget-title">
-              <h4>Sponsor</h4>
+              <h4>Get informed about
+                {% if page.tags contains "show" %} shows {% endif %}
+                {% if page.tags contains "workshop" %} workshops {% endif %}
+                !</h4>
             </div>
-            {% include ads-block.html %}
+            Join our  <a href="/mailing-list">mailing list</a>
           <div>
