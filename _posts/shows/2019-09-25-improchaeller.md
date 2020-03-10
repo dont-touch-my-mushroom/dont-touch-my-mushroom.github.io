@@ -2,6 +2,7 @@
 layout: event
 title:  "IMPRO CHÄLLER presents Impro Match"
 date:   2019-09-25 19:30:00 +0200
+tags: [show]
 categories: show
 img: 2019-09-25-flyer.png
 ---

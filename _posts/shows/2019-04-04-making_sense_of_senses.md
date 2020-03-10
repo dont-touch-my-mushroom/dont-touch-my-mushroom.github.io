@@ -2,6 +2,7 @@
 layout: event
 title:  "Making Sense of Senses"
 date:   2019-04-04 20:00:00 +0100
+tags: [show]
 categories: show
 img : 2019-04-04-flyer.png
 ---

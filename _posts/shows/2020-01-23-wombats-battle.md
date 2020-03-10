@@ -2,6 +2,7 @@
 layout: event
 title:  "Wombats vs Mushrooms - Impro Battle"
 date:   2020-01-23 20:00:00 +0100
+tags: [show]
 categories: show
 img : 2020-01-23-flyer.png
 ---

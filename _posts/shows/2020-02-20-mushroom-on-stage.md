@@ -5,6 +5,7 @@ date:   2020-02-20 20:00:00 +0100
 doors_open: "19:50"
 time_end: "22:00"
 location: Jenseits im Viadukt
+tags: [show]
 categories: show
 img : 2020-02-20-flyer.jpeg
 facebook: "https://www.facebook.com/events/587330331838632/"

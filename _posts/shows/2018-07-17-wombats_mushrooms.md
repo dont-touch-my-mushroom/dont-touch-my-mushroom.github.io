@@ -2,6 +2,7 @@
 layout: event
 title:  "Wombats and Mushrooms"
 date:   2018-07-17 20:00:00 +0100
+tags: [show]
 categories: show
 img : 2018-07-17-flyer.png
 ---

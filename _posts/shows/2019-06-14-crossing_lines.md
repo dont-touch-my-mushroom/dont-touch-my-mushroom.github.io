@@ -2,6 +2,7 @@
 layout: event
 title:  "Drawing Lines"
 date:   2019-06-14 19:30:00 +0100
+tags: [show]
 categories: show
 ---
 

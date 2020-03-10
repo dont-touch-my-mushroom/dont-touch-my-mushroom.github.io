@@ -11,8 +11,10 @@
 
     <div class="blog-block about-sidebar-widget">
      <h4>Check out our next
-         {% if post.categories contains "show" %} show {% endif %}
-         {% if post.categories contains "workshop" %} workshop {% endif %}
+         {% if post.categories contains "show" %} show
+         {% elsif post.categories contains "workshop" %} workshop
+         {% else %} event
+         {% endif %}
        !</h4>
 			 <a href="{{ BASE_PATH }}{{ post.url }}">
 				 <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image">
@@ -31,8 +33,8 @@
           <div class="blog-block blog-posts-widget side-bar sticky-top">
             <div class="widget-title">
               <h4>Get informed about
-                {% if page.tags contains "show" %} shows {% endif %}
-                {% if page.tags contains "workshop" %} workshops {% endif %}
+                {% if page.tags contains "workshop" %} workshops
+                  {% else %} shows {% endif %}
                 !</h4>
             </div>
             Join our  <a href="/mailing-list">mailing list</a>
