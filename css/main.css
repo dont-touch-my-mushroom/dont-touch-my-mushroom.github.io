@@ -16,6 +16,9 @@ h2 {
 h3 {
   padding-top: 5px; }
 
+a:hover {
+  text-decoration: underline; }
+
 .bg-default {
   background: #00a447; }
 
@@ -60,7 +63,8 @@ h3 {
   width: 16px; }
 .contact-info a {
   font-size: 16px;
-  color: #00a447; }
+  color: #00a447;
+  display: inline; }
 
 .map {
   width: 100%;
@@ -68,3 +72,16 @@ h3 {
 
 .side-bar a img {
   padding: 10px; }
+
+.single-testimonial-area .testimonial-inner blockquote {
+  font-size: 18px; }
+
+.blog-posts-widget {
+  margin-bottom: 5px; }
+
+.about-sidebar-widget, .categories-sidebar-widget, .blog-posts-widget {
+  padding-left: 20px; }
+
+.no-padding-sides {
+  padding-left: 0;
+  padding-right: 0; }

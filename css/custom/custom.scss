@@ -38,6 +38,10 @@ h3 {
 // $body-bg: #000;
 // $body-color: #111;
 
+a:hover {
+  text-decoration: underline;
+}
+
 .bg-default {
   background: $main-color;
 }
@@ -111,6 +115,7 @@ margin-bottom: 20px;
   a {
     font-size: 16px;
     color: $main-color;
+    display: inline;
   }
 }
 
@@ -121,4 +126,21 @@ margin-bottom: 20px;
 
 .side-bar a img {
   padding: 10px;
+}
+
+.single-testimonial-area .testimonial-inner blockquote {
+  font-size: 18px;
+}
+
+.blog-posts-widget {
+  margin-bottom: 5px;
+}
+
+.about-sidebar-widget, .categories-sidebar-widget, .blog-posts-widget {
+  padding-left: 20px;
+}
+
+.no-padding-sides {
+  padding-left: 0;
+  padding-right: 0;
 }

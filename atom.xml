@@ -4,12 +4,32 @@
  <title>Don't Touch My Mushroom</title>
  <link href="https://dont-tou.ch/atom.xml" rel="self"/>
  <id>https://dont-tou.ch</id>
- <updated>2020-03-12T19:32:10+00:00</updated>
+ <updated>2020-03-12T21:58:04+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Your body can create 1001 characters!</title>
+   <link href="https://dont-tou.ch/cedric2"/>
+   <id>https://dont-tou.ch/cedric2</id>
+   <updated>2020-02-23T09:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Change your voice, play with your face, transform your attitude, your body is a formidable metamorphosing tool!.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Through guided exercises based on Lecoq’s work, we will discover the power of every muscle and the thousand forms your body can take to personify characters you didn’t imagine playing. They are all...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Mime and object work</title>
+   <link href="https://dont-tou.ch/cedric1"/>
+   <id>https://dont-tou.ch/cedric1</id>
+   <updated>2020-02-22T09:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;This workshop focuses on a side-skill : miming and object and space work.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Having a clear vision of your environment, the objects and furnitures that are around, the size and weight of the mimes you use, is an helpful friend to make your stories more true to you, your partners...</content>
+ </entry>
 
  
 
@@ -89,26 +109,6 @@
    <id>https://dont-tou.ch/where_fungi_feel_at_home</id>
    <updated>2019-02-14T19:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Join us to laugh with and at one of the few (and therefore one of the best!) Zurich’s international improv theatre troupes, Don’t Touch My Mushroom. Once again, the fungi’s show will be unscripted, unpredictable, unhinged, and inspired by you, the audience.&lt;/p&gt; &lt;p&gt;You will not walk out smarter, but you...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Improv Tales of 1001 Night</title>
-   <link href="https://dont-tou.ch/wombats_mushroom"/>
-   <id>https://dont-tou.ch/wombats_mushroom</id>
-   <updated>2018-11-27T19:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Improv Tales of 1001 Night!&lt;/p&gt; &lt;p&gt;Don’t Touch My Mushroom will be hosted on this occasion by our friends from &lt;a href=&quot;https://wombats.ch&quot;&gt;Wisdom of Wombats&lt;/a&gt;.&lt;!--more--&gt; We will create improv scenes based on real-life tales of humour, tragedy, love, different kind of stories, new fairy tales, anything with a beginning, a middle and...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Sporeadic Fungi Improv</title>
-   <link href="https://dont-tou.ch/dentist_butterfly"/>
-   <id>https://dont-tou.ch/dentist_butterfly</id>
-   <updated>2018-09-25T19:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Join us to laugh with and at one of the few (and therefore one of the best!) Zurich’s international improv theatre troupe: The Don’t Touch my Mushroom team.&lt;!--more--&gt; Once again, the fungi’s show will be unscripted, unpredictable, unhinged, and inspired by you, the audience. You will not walk out smarter,...</content>
  </entry>
 
  

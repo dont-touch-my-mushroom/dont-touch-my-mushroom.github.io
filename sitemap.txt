@@ -18,6 +18,8 @@
 /feed.xml
 /page2/
 
+/cedric2
+/cedric1
 /mushroom-on-stage
 /wombats-battle
 /harvest
