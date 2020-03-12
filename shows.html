@@ -21,6 +21,7 @@ canonical: https://dont-tou.ch/shows
 	   {% endif %}
             <div class="blog-post">
               <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+							<i class="fa fa-calendar icons cyan-color contact-info-icon"></i> <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
 	      <p>{{ post.excerpt }}</p>
               <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Read More</a>
             </div>

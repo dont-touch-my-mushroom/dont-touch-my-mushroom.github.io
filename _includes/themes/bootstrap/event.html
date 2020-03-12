@@ -6,7 +6,9 @@
         <div class="event-heading">
           <h1 class="heading-title ">{{ page.title }}
             {% if page.categories contains "show" %}
-            <h4 class="sub-title"> - Improv show </h4>
+              <h4 class="sub-title"> - Improv show </h4>
+            {% elsif page.instructor %}
+              <h4 class="sub-title"> with {{page.instructor}} </h4>
             {% endif %}
           </h1>
         </div>
@@ -27,18 +29,33 @@
               <i class="fa fa-calendar icons cyan-color contact-info-icon"></i> <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
             </li>
             <li>
-              <i class="fa fa-clock-o icons cyan-color contact-info-icon"></i> <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date: "%H:%M"  }} {% if page.time_end %} - {{ page.time_end }} {% endif %}</time>
+              <i class="fa fa-clock-o icons cyan-color contact-info-icon"></i>
+              <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">
+                {% if !page.time %}
+                  {{ page.time }}
+                {% else %}
+                  {{ page.date | date: "%H:%M"  }} {% if page.time_end %} - {{ page.time_end }} {% endif %}
+                {% endif %}
+
+              </time>
               {% if page.doors_open %} <p> Doors open at {{ page.doors_open }} </p> {% endif %}
             </li>
 
             <li>
               <i class="fa fa-map-marker icons cyan-color contact-info-icon"></i>
-              {{ page.location }}
+              {%if page.location_url %}
+                <a href="{{page.location_url}}">{{ page.location }}</a>
+              {% else %}
+                {{ page.location }}
+              {% endif %}
             </li>
             <li>
               <i class="fa fa-ticket icons cyan-color contact-info-icon"></i>
-              Free entrance
-
+              {% if page.ticket_cost %}
+                {{page.ticket_cost}} <a href="{{page.ticket_url}}">Buy tickets</a>
+              {% else %}
+                Free entrance
+              {% endif %}
             </li>
 
             {% if page.facebook %}
@@ -74,8 +91,9 @@
           <h3>Description:</h3>
           {{ content }}
 
-            {% if page.location_link %}
-          <iframe src="{{ page.location_link }}" class="map" frameborder="0" style="border:0" allowfullscreen></iframe>
+            {% if page.location_iframe %}
+          <div class="mb-60"></div>
+          <iframe src="{{ page.location_iframe }}" class="map" frameborder="0" style="border:0" allowfullscreen></iframe>
               {% endif %}
           <div class="mb-60"></div>
           {% include ads-block.html %}

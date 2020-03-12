@@ -38,6 +38,10 @@ h3 {
 // $body-bg: #000;
 // $body-color: #111;
 
+a:hover {
+  text-decoration: underline;
+}
+
 .bg-default {
   background: $main-color;
 }
@@ -111,6 +115,7 @@ margin-bottom: 20px;
   a {
     font-size: 16px;
     color: $main-color;
+    display: inline;
   }
 }
 
