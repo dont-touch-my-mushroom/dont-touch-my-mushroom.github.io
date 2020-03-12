@@ -95,10 +95,62 @@
           <div class="mb-60"></div>
           <iframe src="{{ page.location_iframe }}" class="map" frameborder="0" style="border:0" allowfullscreen></iframe>
               {% endif %}
-          <div class="mb-60"></div>
+
+
+          <!-- About instructor -->
+                  <div class="mb-60"></div>
+        {% if page.instructor_bio %}
+            <h1 class="heading-title ">About {{page.instructor}}</h1>
+
+              <div class="row blog-block">
+            <div class="col-sm-12 col-md-4 no-padding-sides"><img src="{{ BASE_PATH }}/assets/images/{{page.instructor_img}}" alt="{{page.instructor}}"></div>
+            <div class="col-sm-12 col-md-8 align-middle">
+            <div class="vertical-flexer"></div><p>{{page.instructor_bio}}</p>
+            <div class="vertical-flexer"></div></div>
+</div>
+
+        {% endif %}
+          <!-- end about instructor -->
+
+            <!-- testimonials slider -->
+          {% if page.instructor_review %}
+      <div class="mb-60"></div>
+            <div class="single-testimonial-area">
+              <div id="single-testimonial-item" class="owl-carousel">
+                <!-- Single testimonial Item -->
+                <div class="item">
+                  <div class="row justify-content-md-center">
+                    <div class="col-md-8 col-xs-12 col-md-auto">
+                      <div class="testimonial-inner text-md-center">
+                        <blockquote>
+                          "{{page.instructor_review}}"
+                        </blockquote>
+                        <div class="testimonial-images">
+                          <img class="img-circle text-md-center" src="{{ BASE_PATH }}/assets/images/{{page.instructor_face}}" alt="{{page.instructor}}">
+                        </div>
+                        <div class="testimonial-footer">
+                          <i class="fa fa-user"></i> {{page.instructor}}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endif %}
+            <!-- end testimonial-->
+
+
+
           {% include ads-block.html %}
           <div class="mb-60"></div>
           {% include JB/comments %}
+
+
+
+
+
+
         </div>
         <div class="col-sm-12 col-md-3">
           <div class="mb-60"></div>
