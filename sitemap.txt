@@ -9,7 +9,6 @@
 /
 /mailing-list/
 /css/main.css
-/open/
 /rss.xml
 /shows
 /sitemap.txt
