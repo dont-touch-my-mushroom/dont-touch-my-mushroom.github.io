@@ -47,9 +47,11 @@ The sessions take place from **19:00 until 21:00**.
 
 | Month   | Days   |
 |---------|--------|
-|January   |16 January 30 January |
-|February  |13 February 27February |
-|March 	  |12 March 26 March |
-|April 	  |9 April |
+|January   |16th, 30th |
+|February  |13th, 27th |
+|March 	  |~~12th, 26th~~ |
+|April 	  |~~9th~~ |
 |May 	  | (none) |
-|June	  |4 June 18 June |
+|June	  |4th, 18th |
+
+Note: March/April were cancelled due to the spread of the COVID-19 disease.
