@@ -17,6 +17,7 @@
 /feed.xml
 /page2/
 
+/stephen
 /cedric2
 /cedric1
 /mushroom-on-stage
