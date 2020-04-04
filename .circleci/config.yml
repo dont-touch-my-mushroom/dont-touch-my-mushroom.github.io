@@ -61,9 +61,10 @@ workflows:
   after_push:
     jobs:
       - build:
-          branches:
-            only:
-              - v2
+          filters:
+            branches:
+              only:
+                - v2
   nightly:
     triggers:
       - schedule:
