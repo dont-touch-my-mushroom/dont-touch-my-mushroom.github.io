@@ -21,12 +21,12 @@ jobs:
             git status
       - run:
           name: Jekyll build
-          command: bundle exec jekyll build
+          command: bundle exec jekyll build --destination tmp
       - run:
           name: checkout master branch
           command: |
             git fetch
-            branch -f master origin/master
+            git branch -f master origin/master
       - run:
           name: Clear publish directory
           command: rm -rf publish
