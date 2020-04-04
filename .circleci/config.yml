@@ -2,19 +2,6 @@ version: 2.1
 orbs:
   ruby: circleci/ruby@0.1.2
 
-workflows:
-  version: 2
-  nightly:
-    triggers:
-      - schedule:
-          cron: "0 0 * * *"
-          filters:
-            branches:
-              only:
-                - v2
-    jobs:
-      - build
-
 jobs:
   build:
     docker:
@@ -68,3 +55,17 @@ jobs:
             git push
             cd ..
             git push origin master
+
+
+workflows:
+  version: 2
+  nightly:
+    jobs:
+      - build
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - v2
