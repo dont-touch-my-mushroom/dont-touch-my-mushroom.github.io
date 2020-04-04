@@ -60,6 +60,7 @@ exclude:
   - nix
   - publish
   - "*.nix"
+  - vendor
 
 # Copied from Helium https://github.com/heliumjk/heliumjk.github.io
 highlighter: null
