@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Don't Touch My Mushroom</title>
- <link href="https://dont-tou.ch/atom.xml" rel="self"/>
- <id>https://dont-tou.ch</id>
- <updated>2020-03-29T16:48:05+00:00</updated>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2020-04-04T22:29:59+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -15,8 +15,8 @@
 
  <entry>
    <title>Online workshop: One offer at a time</title>
-   <link href="https://dont-tou.ch/stephen"/>
-   <id>https://dont-tou.ch/stephen</id>
+   <link href="http://localhost:4000/stephen"/>
+   <id>http://localhost:4000/stephen</id>
    <updated>2020-03-24T18:30:00+00:00</updated>
    <content type="html">&lt;p&gt;No virus is going to keep us from doing Improv! Now that most of us are secluded at home we should adapt and do things that keep us sane.&lt;!--more--&gt; I would go insane without improv and so we decided to contact international improvisers to give us workshops through VC. The...</content>
  </entry>
@@ -25,8 +25,8 @@
 
  <entry>
    <title>Your body can create 1001 characters!</title>
-   <link href="https://dont-tou.ch/cedric2"/>
-   <id>https://dont-tou.ch/cedric2</id>
+   <link href="http://localhost:4000/cedric2"/>
+   <id>http://localhost:4000/cedric2</id>
    <updated>2020-02-23T09:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Change your voice, play with your face, transform your attitude, your body is a formidable metamorphosing tool!.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Through guided exercises based on Lecoq’s work, we will discover the power of every muscle and the thousand forms your body can take to personify characters you didn’t imagine playing. They are all...</content>
  </entry>
@@ -35,8 +35,8 @@
 
  <entry>
    <title>Mime and object work</title>
-   <link href="https://dont-tou.ch/cedric1"/>
-   <id>https://dont-tou.ch/cedric1</id>
+   <link href="http://localhost:4000/cedric1"/>
+   <id>http://localhost:4000/cedric1</id>
    <updated>2020-02-22T09:00:00+00:00</updated>
    <content type="html">&lt;p&gt;This workshop focuses on a side-skill : miming and object and space work.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Having a clear vision of your environment, the objects and furnitures that are around, the size and weight of the mimes you use, is an helpful friend to make your stories more true to you, your partners...</content>
  </entry>
@@ -45,8 +45,8 @@
 
  <entry>
    <title>Mushrooms on Stage</title>
-   <link href="https://dont-tou.ch/mushroom-on-stage"/>
-   <id>https://dont-tou.ch/mushroom-on-stage</id>
+   <link href="http://localhost:4000/mushroom-on-stage"/>
+   <id>http://localhost:4000/mushroom-on-stage</id>
    <updated>2020-02-20T19:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! You will not walk out smarter, but you will walk out happier! &lt;!--more--&gt; Doors open at 19:50. Show duration 20:00 -...</content>
  </entry>
@@ -55,8 +55,8 @@
 
  <entry>
    <title>Wombats vs Mushrooms - Impro Battle</title>
-   <link href="https://dont-tou.ch/wombats-battle"/>
-   <id>https://dont-tou.ch/wombats-battle</id>
+   <link href="http://localhost:4000/wombats-battle"/>
+   <id>http://localhost:4000/wombats-battle</id>
    <updated>2020-01-23T19:00:00+00:00</updated>
    <content type="html">&lt;p&gt;The prophecy says that in 2020 a new generation of improv show will emerge. Only the bravest improvisers will dare challenge the mighty &lt;strong&gt;Don’t Touch My Mushroom&lt;/strong&gt;. In this first edition, the &lt;strong&gt;Wisdom of Wombats&lt;/strong&gt; have answered the calling. Who will become the winner of the first &lt;strong&gt;Improv Battle&lt;/strong&gt;? &lt;!--more--&gt;...</content>
  </entry>
@@ -65,8 +65,8 @@
 
  <entry>
    <title>Mushroom Harvest</title>
-   <link href="https://dont-tou.ch/harvest"/>
-   <id>https://dont-tou.ch/harvest</id>
+   <link href="http://localhost:4000/harvest"/>
+   <id>http://localhost:4000/harvest</id>
    <updated>2019-11-13T19:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! &lt;!--more--&gt; Thanksgiving can be the land of any inspiration. Come for a fantastical time full of unexpected surprises. You give us...</content>
  </entry>
@@ -75,8 +75,8 @@
 
  <entry>
    <title>IMPRO CHÄLLER presents Impro Match</title>
-   <link href="https://dont-tou.ch/improchaeller"/>
-   <id>https://dont-tou.ch/improchaeller</id>
+   <link href="http://localhost:4000/improchaeller"/>
+   <id>http://localhost:4000/improchaeller</id>
    <updated>2019-09-25T17:30:00+00:00</updated>
    <content type="html">&lt;p&gt;Join us in Improchaeller for a friendly impro contest between “Berta Pan”🍳 and “Don’t Touch My Mushroom”🍄. Crazy short forms will test their improv skills, make you laugh and wonder. You get to choose the winner! &lt;!--more--&gt; Date: Wednesday 25 September 2019 Door opens at 19:00. Show starts at 19:30....</content>
  </entry>
@@ -85,8 +85,8 @@
 
  <entry>
    <title>Between 2 Worlds</title>
-   <link href="https://dont-tou.ch/between_two_worlds"/>
-   <id>https://dont-tou.ch/between_two_worlds</id>
+   <link href="http://localhost:4000/between_two_worlds"/>
+   <id>http://localhost:4000/between_two_worlds</id>
    <updated>2019-08-29T17:30:00+00:00</updated>
    <content type="html">&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! &lt;!--more--&gt; The gap between worlds will become narrow this night. Come for a fantastical time full of unexpected surprises. You put...</content>
  </entry>
@@ -95,8 +95,8 @@
 
  <entry>
    <title>Drawing Lines</title>
-   <link href="https://dont-tou.ch/crossing_lines"/>
-   <id>https://dont-tou.ch/crossing_lines</id>
+   <link href="http://localhost:4000/crossing_lines"/>
+   <id>http://localhost:4000/crossing_lines</id>
    <updated>2019-06-14T18:30:00+00:00</updated>
    <content type="html">&lt;p&gt;19:30 Apero, 20:00 Start of the Performance&lt;/p&gt; &lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! &lt;!--more--&gt; Come and see the Mushrooms performing a new spectacle, based on Jenseits’ monthly...</content>
  </entry>
@@ -105,8 +105,8 @@
 
  <entry>
    <title>Making Sense of Senses</title>
-   <link href="https://dont-tou.ch/making_sense_of_senses"/>
-   <id>https://dont-tou.ch/making_sense_of_senses</id>
+   <link href="http://localhost:4000/making_sense_of_senses"/>
+   <id>http://localhost:4000/making_sense_of_senses</id>
    <updated>2019-04-04T19:00:00+00:00</updated>
    <content type="html">&lt;p&gt;This show is based on jenseits’ seasonal theme “sense and senses.”&lt;!--more--&gt; Do mushrooms have a special sense to react and improvise on cue thrown at them? Can they smell what their fellows think? Come and discover how (un)believable stories are created in front of your eyes, based on your suggestions....</content>
  </entry>
