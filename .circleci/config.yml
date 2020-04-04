@@ -1,15 +1,21 @@
 version: 2.1
 orbs:
-  ruby: circleci/ruby@0.1.2 
+  ruby: circleci/ruby@0.1.2
 
 jobs:
   build:
+    branches:
+      only:
+        - v2
     docker:
       - image: circleci/ruby:2.6.3-stretch-node
     executor: ruby/default
     steps:
       - checkout
       - run:
-          name: Which bundler?
-          command: bundle -v
+          name: Bundle Install
+          command: bundle check || bundle install
       - ruby/bundle-install
+      - run:
+          name: Jekyll build
+          command: bundle exec jekyll build
