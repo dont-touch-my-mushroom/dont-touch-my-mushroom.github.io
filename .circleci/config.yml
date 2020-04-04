@@ -9,8 +9,8 @@ jobs:
     executor: ruby/default
     steps:
       - add_ssh_keys:
-      fingerprints:
-        - "e9:06:0f:ad:1b:90:32:33:45:5b:6a:fa:1c:52:76:60"
+        fingerprints:
+          - "e9:06:0f:ad:1b:90:32:33:45:5b:6a:fa:1c:52:76:60"
       - checkout
       - run:
           name: Bundle Install
