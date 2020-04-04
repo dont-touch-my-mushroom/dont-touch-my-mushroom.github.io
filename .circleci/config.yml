@@ -4,9 +4,6 @@ orbs:
 
 jobs:
   build:
-    branches:
-      only:
-        - v2
     docker:
       - image: circleci/ruby:2.6.3-stretch-node
     executor: ruby/default
