@@ -10,7 +10,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "e9:06:0f:ad:1b:90:32:33:45:5b:6a:fa:1c:52:76:60"
+            - "9f:0a:e4:f2:41:a5:81:53:ec:d2:89:4f:df:34:b6:40"
       - checkout
       - run:
           name: Bundle Install
@@ -48,7 +48,7 @@ jobs:
           command: |
             cd publish
             echo ../CNAME CNAME
-            git config --global user.email "circleci@circleci.com"
+            git config --global user.email "conan747@circleci.com"
             git config --global user.name "circleci"
             git add .
             git commit -m "Built from circleci"
