@@ -13,6 +13,9 @@ workflows:
               only:
                 - v2
     jobs:
+      - build-deploy
+
+  build-deploy:
       build:
         docker:
           - image: circleci/ruby:2.6.3-stretch-node
