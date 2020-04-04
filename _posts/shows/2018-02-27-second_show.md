@@ -6,8 +6,6 @@ tags: [show]
 categories: show
 img : 1_curtains_final_middle_big.png
 ---
-Dear friends & improv friends,
-
 The brand new *Don't Touch My Mushroom* show has arrived!
 <!--more-->
 Returning to the friendly location of **jenseits im Viadukt** we will improvise

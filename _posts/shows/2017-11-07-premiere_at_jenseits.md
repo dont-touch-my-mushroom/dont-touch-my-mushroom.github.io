@@ -5,8 +5,6 @@ date:   2017-11-07 19:00:00 +0100
 tags: [show]
 img : banner-you-drink-we-improvise.png
 ---
-Dear friends & improv friends,
-
 The Improv Group *Don't Touch My Mushroom* is proud... and slightly scared... to
 announce its first independent show in English!
 <!--more-->
