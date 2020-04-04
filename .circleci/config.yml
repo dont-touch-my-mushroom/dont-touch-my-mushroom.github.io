@@ -55,6 +55,7 @@ jobs:
             git push
             cd ..
             git push origin master
+
 workflows:
   version: 2
   build_and_test:
