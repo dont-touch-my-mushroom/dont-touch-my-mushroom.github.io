@@ -14,6 +14,12 @@ jobs:
           command: bundle check || bundle install
       - ruby/bundle-install
       - run:
+          name: debug print of _config.yml
+          command: |
+          cat _config.yml
+          ls -lah
+          git status
+      - run:
           name: Jekyll build
           command: bundle exec jekyll build --destination tmp
       - run:
