@@ -45,6 +45,8 @@ jobs:
           command: |
             cd publish
             echo ../CNAME CNAME
+            git config --global user.email "circleci@circleci.com"
+            git config --global user.name "circleci"
             git add .
             git commit -m "Built from circleci"
             git push
