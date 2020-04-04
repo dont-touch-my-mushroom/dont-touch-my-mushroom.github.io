@@ -21,7 +21,7 @@ jobs:
             git status
       - run:
           name: Jekyll build
-          command: bundle exec jekyll build --destination tmp
+          command: bundle exec jekyll build
       - run:
           name: checkout master branch
           command: |
