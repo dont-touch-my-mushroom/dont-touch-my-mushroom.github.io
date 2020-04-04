@@ -37,7 +37,7 @@ jobs:
             git clone -l -b master . publish
       - run:
           name: Merge the built files with master.
-          command:
+          command: |
             sudo apt install -y rsync
             rsync -rvLk --exclude='.git' --delete tmp/ publish
       - run:
