@@ -58,7 +58,10 @@ jobs:
 
 workflows:
   version: 2
-  build_and_test:
+  after_push:
+    jobs:
+      - build
+  nightly:
     triggers:
       - schedule:
           cron: "0 0 * * *"
