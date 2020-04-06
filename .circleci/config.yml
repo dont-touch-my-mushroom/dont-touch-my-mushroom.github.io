@@ -42,7 +42,10 @@ jobs:
           name: Merge the built files with master.
           command: |
             sudo apt install -y rsync
-            rsync -rvLk --exclude='.git' --delete tmp/ publish
+            rsync -rvLk --exclude='.git'--delete tmp/ publish
+      - run:
+          name: Copy the circleci configuration to master to prevent extra builds.
+          command: rsync -rvLk .circleci publish/
       - run:
           name: push the files in publish to master
           command: |
