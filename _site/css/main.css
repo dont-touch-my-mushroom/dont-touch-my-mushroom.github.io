@@ -1,0 +1,87 @@
+/*
+ * Emerald is a simple blog theme built for Jekyll.
+ */
+/*- Base reset -*/
+/*- Typography -*/
+/* -- General Layout -- */
+/* Navigation */
+/*
+ * A Github stylesheet to highlight code snippet
+ * https://github.com/mojombo/tpw/blob/master/css/syntax.css
+ */
+/*- Custom style -*/
+h2 {
+  padding-top: 15px; }
+
+h3 {
+  padding-top: 5px; }
+
+a:hover {
+  text-decoration: underline; }
+
+.bg-default {
+  background: #00a447; }
+
+.service-box .service-icon i {
+  color: #00a447; }
+
+.btn-default-filled {
+  background: #00a447; }
+  .btn-default-filled:hover {
+    background: #008A3C;
+    border: 1px solid #008A3C; }
+
+.navbar {
+  padding: 0; }
+
+.navbar-light .navbar-nav .active a:hover {
+  color: black; }
+.navbar-light .navbar-nav .nav-link {
+  color: white; }
+  .navbar-light .navbar-nav .nav-link:hover {
+    color: black; }
+
+.align-middle {
+  display: grid; }
+
+.event-heading {
+  margin-bottom: 20px; }
+  .event-heading h1 {
+    display: inline; }
+  .event-heading h4 {
+    display: inline; }
+
+.white-background {
+  background-color: white; }
+
+.contact-info p {
+  margin-left: 30px; }
+.contact-info li {
+  margin-bottom: 15px; }
+.contact-info i {
+  margin-right: 10px;
+  width: 16px; }
+.contact-info a {
+  font-size: 16px;
+  color: #00a447;
+  display: inline; }
+
+.map {
+  width: 100%;
+  min-height: 450px; }
+
+.side-bar a img {
+  padding: 10px; }
+
+.single-testimonial-area .testimonial-inner blockquote {
+  font-size: 18px; }
+
+.blog-posts-widget {
+  margin-bottom: 5px; }
+
+.about-sidebar-widget, .categories-sidebar-widget, .blog-posts-widget {
+  padding-left: 20px; }
+
+.no-padding-sides {
+  padding-left: 0;
+  padding-right: 0; }
