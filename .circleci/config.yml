@@ -54,7 +54,7 @@ jobs:
             git config --global user.email "conan747@circleci.com"
             git config --global user.name "circleci"
             git add .
-            git commit -m "Built from circleci"
+            git status --porcelain || git commit -m "Built from circleci"
             git push
             cd ..
             git push origin master
@@ -71,7 +71,7 @@ workflows:
   nightly:
     triggers:
       - schedule:
-          cron: "0 0 * * *"
+          cron: "0 2 * * *"
           filters:
             branches:
               only:
