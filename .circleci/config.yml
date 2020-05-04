@@ -42,7 +42,7 @@ jobs:
           name: Merge the built files with master.
           command: |
             sudo apt install -y rsync
-            rsync -rvLk --exclude='.git' --delete tmp/ publish
+            rsync -rvLk --exclude='.git'--delete tmp/ publish
       - run:
           name: Copy the circleci configuration to master to prevent extra builds.
           command: rsync -rvLk .circleci publish/
@@ -54,7 +54,7 @@ jobs:
             git config --global user.email "conan747@circleci.com"
             git config --global user.name "circleci"
             git add .
-            git status --porcelain || git commit -m "Built from circleci"
+            git commit -m "Built from circleci"
             git push
             cd ..
             git push origin master
@@ -71,7 +71,7 @@ workflows:
   nightly:
     triggers:
       - schedule:
-          cron: "0 2 * * *"
+          cron: "0 0 * * *"
           filters:
             branches:
               only:
