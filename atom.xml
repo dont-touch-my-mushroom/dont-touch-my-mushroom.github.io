@@ -4,12 +4,22 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2020-05-06T00:10:02+00:00</updated>
+ <updated>2020-05-06T08:21:02+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>First online Improv show</title>
+   <link href="http://localhost:4000/first_online_show"/>
+   <id>http://localhost:4000/first_online_show</id>
+   <updated>2020-05-09T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;No virus is going to prevent us from doing what we like most! Don’t Touch My Mushroom adapts to the circumstances and brings us a fully online improv show experience.&lt;!--more--&gt; We might face a pandemic, technical difficulties and a confinement, but we hope we can bring a smile to your...</content>
+ </entry>
 
  
 
@@ -99,16 +109,6 @@
    <id>http://localhost:4000/crossing_lines</id>
    <updated>2019-06-14T18:30:00+00:00</updated>
    <content type="html">&lt;p&gt;19:30 Apero, 20:00 Start of the Performance&lt;/p&gt; &lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! &lt;!--more--&gt; Come and see the Mushrooms performing a new spectacle, based on Jenseits’ monthly...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Making Sense of Senses</title>
-   <link href="http://localhost:4000/making_sense_of_senses"/>
-   <id>http://localhost:4000/making_sense_of_senses</id>
-   <updated>2019-04-04T19:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;This show is based on jenseits’ seasonal theme “sense and senses.”&lt;!--more--&gt; Do mushrooms have a special sense to react and improvise on cue thrown at them? Can they smell what their fellows think? Come and discover how (un)believable stories are created in front of your eyes, based on your suggestions....</content>
  </entry>
 
  

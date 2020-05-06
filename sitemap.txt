@@ -8,13 +8,16 @@
 /
 /mailing-list/
 /css/main.css
+/online
 /rss.xml
 /shows
 /sitemap.txt
 /workshops
 /feed.xml
 /page2/
+/page3/
 
+/first_online_show
 /stephen
 /cedric2
 /cedric1

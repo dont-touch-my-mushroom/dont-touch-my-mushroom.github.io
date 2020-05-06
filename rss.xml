@@ -5,10 +5,26 @@
         <description>Don't Touch My Mushroom - </description>
         <link></link>
         <link></link>
-        <lastBuildDate>2020-05-06T00:10:02+00:00</lastBuildDate>
-        <pubDate>2020-05-06T00:10:02+00:00</pubDate>
+        <lastBuildDate>2020-05-06T08:21:02+00:00</lastBuildDate>
+        <pubDate>2020-05-06T08:21:02+00:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>First online Improv show</title>
+                <description>&lt;p&gt;No virus is going to prevent us from doing what we like most! Don’t Touch My Mushroom adapts to the circumstances and brings us a fully online improv show experience.&lt;!--more--&gt;
+We might face a pandemic, technical difficulties and a confinement, but we hope we can bring a smile to your face when you need it most.
+Join us for 30 minutes of our first attempt on virtual Improv. Let us spend part of our confinement together!&lt;/p&gt;
+
+&lt;p&gt;You will be able to access the live stream by following this link &lt;strong&gt;a few minutes before 21:00:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dont-tou.ch/online&quot;&gt;https://dont-tou.ch/online&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <link>/first_online_show</link>
+                <guid>/first_online_show</guid>
+                <pubDate>2020-05-09T20:00:00+00:00</pubDate>
+        </item>
 
         <item>
                 <title>Online workshop: One offer at a time</title>
