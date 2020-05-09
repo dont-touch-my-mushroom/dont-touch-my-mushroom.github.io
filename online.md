@@ -1,5 +1,5 @@
 ---
 title: Online show
-redirect_to: https://dont-tou.ch/first_online_show
+redirect_to: https://youtu.be/0FP8WSyaifA
 ---
 <script>window.location.replace("{{ page.redirect_to }}");</script>
