@@ -15,11 +15,21 @@ canonical: https://dont-tou.ch/improv
 We are organizing roughly biweekly open sessions -- everyone with some Improv
 experience is welcome.
 
+<div class="massage-box alert-warning">
+  <strong>
+    <i class="fa fa-exclamation-triangle"></i>
+    Change of plans due to COVID19.
+  </strong>
+  <p>We are cancelling all Thursday sessions for the time being. We will send an announcement email to
+  the <a href="https://groups.google.com/forum/#!forum/improv-zurich/join">improv-zurich mailing group</a>
+  as soon as we know when we can resume them.</p>
+</div>
+
 {:.heading-title}
 ## How to join?
 
 {:.orderlist}
-1. Join our mailing list
+1. Join our mailing group
   [improv-zurich](https://groups.google.com/forum/#!forum/improv-zurich/join).
 1. Introduce yourself informally. A "Hi" is fine, but you can go fancy ;)
 1. Check for emails to make sure the session is happening.
@@ -52,6 +62,4 @@ The sessions take place from **19:00 until 21:00**.
 |March 	  |~~12th, 26th~~ |
 |April 	  |~~9th~~ |
 |May 	  | (none) |
-|June	  |4th, 18th |
-
-Note: March/April were cancelled due to the spread of the COVID-19 disease.
+|June	  |~~4th, 18th~~ |
