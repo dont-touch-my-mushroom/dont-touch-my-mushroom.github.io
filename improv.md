@@ -20,7 +20,7 @@ experience is welcome.
     <i class="fa fa-exclamation-triangle"></i>
     Change of plans due to COVID19.
   </strong>
-  <p>We are cancelling all Thursday sessions for the time being. We will send an announcement email to
+  <p>We are cancelling all Thursday sessions until further notice. We will send an announcement email to
   the <a href="https://groups.google.com/forum/#!forum/improv-zurich/join">improv-zurich mailing group</a>
   as soon as we know when we can resume them.</p>
 </div>
