@@ -17,6 +17,7 @@
 /page2/
 /page3/
 
+/the_harold
 /first_online_show
 /stephen
 /cedric2

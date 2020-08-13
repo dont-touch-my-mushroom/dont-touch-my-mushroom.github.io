@@ -4,12 +4,22 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2020-08-13T00:09:42+00:00</updated>
+ <updated>2020-08-13T17:21:51+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>The Harold</title>
+   <link href="http://localhost:4000/the_harold"/>
+   <id>http://localhost:4000/the_harold</id>
+   <updated>2020-09-17T19:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The Harold is a longform improvised format which emphasises patterns, themes and group discoveries instead of a traditional plot or story. Everything starts from a simple suggestion from the audience. &lt;!--more--&gt; The &lt;strong&gt;Game&lt;/strong&gt; of the scene is not predetermined. We create Games and their rules in the moment.&lt;/p&gt; &lt;p&gt;Doors open...</content>
+ </entry>
 
  
 
@@ -99,16 +109,6 @@
    <id>http://localhost:4000/between_two_worlds</id>
    <updated>2019-08-29T17:30:00+00:00</updated>
    <content type="html">&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! &lt;!--more--&gt; The gap between worlds will become narrow this night. Come for a fantastical time full of unexpected surprises. You put...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Drawing Lines</title>
-   <link href="http://localhost:4000/crossing_lines"/>
-   <id>http://localhost:4000/crossing_lines</id>
-   <updated>2019-06-14T18:30:00+00:00</updated>
-   <content type="html">&lt;p&gt;19:30 Apero, 20:00 Start of the Performance&lt;/p&gt; &lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! &lt;!--more--&gt; Come and see the Mushrooms performing a new spectacle, based on Jenseits’ monthly...</content>
  </entry>
 
  
