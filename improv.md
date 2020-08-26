@@ -36,10 +36,7 @@ experience is welcome.
 1. Show up.
 
 ## Where is it?
-
-See [this
-document](https://docs.google.com/document/d/1TjFeCMlUWh2jRm9GhoPKZgfebrwNkwBnoqoO1Poz_W8/edit?usp=sharing)
-for an illustrated guide.
+Kindertreff Viadukt (look for the place with number ...16) 
 
 ## How much does it cost?
 
@@ -51,15 +48,6 @@ We might change this if this doesn't work out but so far it is looking good.
 
 ## When is it?
 
-The sessions take place from **19:00 until 21:00**.
+The sessions take place from **19:00 until 21:30**.
 
-### Sessions 2020 January - June
-
-| Month   | Days   |
-|---------|--------|
-|January   |16th, 30th |
-|February  |13th, 27th |
-|March 	  |~~12th, 26th~~ |
-|April 	  |~~9th~~ |
-|May 	  | (none) |
-|June	  |~~4th, 18th~~ |
+**Please make sure that we sent an email announcing that the session will take place.**
