@@ -3,7 +3,7 @@
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% assign nowunix = nowunix | plus: 0 %}
 
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 	{% if post.categories contains 'show' or 'workshop' %}
   {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
   {% assign posttime = posttime | plus: 0 %}
@@ -26,8 +26,6 @@
   	{% endif %}
 	{% endif %}
 {% endfor %}
-
-
 
 
           <div class="blog-block blog-posts-widget side-bar sticky-top">

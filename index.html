@@ -78,7 +78,8 @@ canonical: https://dont-tou.ch
 {% assign nowunix = nowunix | plus: 0 %}
 {% assign shown = false %}
 
-{% for post in site.posts %}
+<!-- The reversed keyword is important so that it shows the next most recent show. -->
+{% for post in site.posts reversed %} 
   {% if shown != true %}
   	{% if post.categories contains 'show' or 'workshop' %}
     {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
