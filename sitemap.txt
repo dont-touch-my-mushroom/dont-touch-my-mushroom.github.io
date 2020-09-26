@@ -17,6 +17,8 @@
 /page2/
 /page3/
 
+/fight_dodecahedron
+/ZIC_theater_sports
 /the_harold
 /first_online_show
 /stephen

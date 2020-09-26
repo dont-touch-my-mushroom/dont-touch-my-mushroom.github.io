@@ -4,12 +4,32 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2020-09-25T00:09:18+00:00</updated>
+ <updated>2020-09-26T10:47:17+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Improfight: Don't Touch My Mushroom VS Dodecahedron</title>
+   <link href="http://localhost:4000/fight_dodecahedron"/>
+   <id>http://localhost:4000/fight_dodecahedron</id>
+   <updated>2020-10-29T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Our impro fight will set two impro groups face to face on stage and make them compete for more applause from the audience. You give us the suggestions and you vote for the troupe that gets the points! &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;This time Don’t Touch My Mushroom will face the ETH based...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Theater Sports by ZIC: DTMM VS ZIC</title>
+   <link href="http://localhost:4000/ZIC_theater_sports"/>
+   <id>http://localhost:4000/ZIC_theater_sports</id>
+   <updated>2020-10-08T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.zurichimprovcomedy.ch/&quot;&gt;Zurich Improv Comedy (ZIC)&lt;/a&gt; is organizing a theater sports show and they invited us to participate.&lt;/p&gt; &lt;!--more--&gt; &lt;p&gt;Team against team – improviser against improviser – Titan against Titan!&lt;/p&gt; &lt;p&gt;The home team, &lt;a href=&quot;https://www.zurichimprovcomedy.ch/&quot;&gt;Zurich Improv Comedy (ZIC)&lt;/a&gt;, competes in each show against a different improv group from Switzerland. The two...</content>
+ </entry>
 
  
 
@@ -89,26 +109,6 @@
    <id>http://localhost:4000/harvest</id>
    <updated>2019-11-13T19:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! &lt;!--more--&gt; Thanksgiving can be the land of any inspiration. Come for a fantastical time full of unexpected surprises. You give us...</content>
- </entry>
-
- 
-
- <entry>
-   <title>IMPRO CHÄLLER presents Impro Match</title>
-   <link href="http://localhost:4000/improchaeller"/>
-   <id>http://localhost:4000/improchaeller</id>
-   <updated>2019-09-25T17:30:00+00:00</updated>
-   <content type="html">&lt;p&gt;Join us in Improchaeller for a friendly impro contest between “Berta Pan”🍳 and “Don’t Touch My Mushroom”🍄. Crazy short forms will test their improv skills, make you laugh and wonder. You get to choose the winner! &lt;!--more--&gt; Date: Wednesday 25 September 2019 Door opens at 19:00. Show starts at 19:30....</content>
- </entry>
-
- 
-
- <entry>
-   <title>Between 2 Worlds</title>
-   <link href="http://localhost:4000/between_two_worlds"/>
-   <id>http://localhost:4000/between_two_worlds</id>
-   <updated>2019-08-29T17:30:00+00:00</updated>
-   <content type="html">&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! &lt;!--more--&gt; The gap between worlds will become narrow this night. Come for a fantastical time full of unexpected surprises. You put...</content>
  </entry>
 
  
