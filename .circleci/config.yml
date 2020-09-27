@@ -14,14 +14,8 @@ jobs:
       - checkout
       - run:
           name: Bundle Install
-          command: bundle check || bundle install
+          command: bundle check || gem install bundler:2.1.4 || bundle install
       - ruby/bundle-install
-      - run:
-          name: debug print of _config.yml
-          command: |
-            cat _config.yml
-            ls -lah
-            git status
       - run:
           name: Jekyll build
           command: bundle exec jekyll build --destination tmp
