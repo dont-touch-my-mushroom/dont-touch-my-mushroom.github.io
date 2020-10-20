@@ -13,8 +13,16 @@ img : 2020-10-29-fight_dodecahedron.jpg
 facebook: "https://www.facebook.com/events/408224033479473/"
 location_iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2701.3164958683724!2d8.52006681583793!3d47.38625731116593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900a15619f4fa9%3A0x124e7e779b279679!2sjenseits+im+Viadukt!5e0!3m2!1sen!2sch!4v1529147583692"
 ---
-Our impro fight will set two impro groups face to face on stage and make them compete for more applause from the audience. You give us the suggestions and you vote for the troupe that gets the points!
+<div class="massage-box alert-warning">
+  <strong>
+    <i class="fa fa-exclamation-triangle"></i>
+    This show has been cancelled due to COVID19.
+  </strong>
+  <p>We will see you on stage again in 2021!</p>
+</div>
 <!--more-->
+
+Our impro fight will set two impro groups face to face on stage and make them compete for more applause from the audience. You give us the suggestions and you vote for the troupe that gets the points!
 
 This time Don’t Touch My Mushroom will face the ETH based group Dodecahedron.
 

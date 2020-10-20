@@ -3,3 +3,5 @@ result
 _site
 .sass-cache
 publish
+.bundle
+vendor
