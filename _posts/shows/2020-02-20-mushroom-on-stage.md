@@ -14,7 +14,7 @@ location_iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2701.316
 Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members!
 You will not walk out smarter, but you will walk out happier!
 <!--more-->
-Doors open at 19:50. Show duration 20:00 - 22:00.
+Doors open at 19:50. Show duration 20:00 -> 22:00.
 
 -- Donation based entry --
 
