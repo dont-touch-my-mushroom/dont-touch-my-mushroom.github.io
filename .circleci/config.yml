@@ -1,21 +1,24 @@
 version: 2.1
 orbs:
-  ruby: circleci/ruby@0.1.2
+  ruby: circleci/ruby@1.1.2
 
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.6.3-stretch-node
+      - image: cimg/ruby:2.6.3
     executor: ruby/default
+    environment:
+        TZ: "Europe/Zurich"
     steps:
       - add_ssh_keys:
           fingerprints:
             - "9f:0a:e4:f2:41:a5:81:53:ec:d2:89:4f:df:34:b6:40"
       - checkout
       - run:
-          name: Bundle Install
-          command: bundle check || gem install bundler:2.1.4 || bundle install
-      - ruby/bundle-install
+          name: Install rsync
+          command: apt update && apt install -y rsync
+      - ruby/install-deps:
+          bundler-version: '2.1.4'
       - run:
           name: Jekyll build
           command: bundle exec jekyll build --destination tmp
@@ -34,9 +37,7 @@ jobs:
             git clone -l -b master . publish
       - run:
           name: Merge the built files with master.
-          command: |
-            sudo apt install -y rsync
-            rsync -rvLk --exclude='.git'--delete tmp/ publish
+          command: rsync -rvLk --exclude='.git'--delete tmp/ publish
       - run:
           name: Copy the circleci configuration to master to prevent extra builds.
           command: rsync -rvLk .circleci publish/
