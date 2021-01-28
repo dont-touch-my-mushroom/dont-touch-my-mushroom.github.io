@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "The fungus returns!"
-date:   2018-02-27 20:00:00 +0100
+date:   2018-02-27T20:00:00ZCET
 tags: [show]
 categories: show
 img : 1_curtains_final_middle_big.png

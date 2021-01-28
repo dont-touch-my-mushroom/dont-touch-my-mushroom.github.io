@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Theater Sports by ZIC: DTMM VS ZIC"
-date:   2020-10-08 20:00:00 +0000
+date:   2020-10-08T20:00:00ZCET
 #doors_open: "19:50"
 time_end: "22:00"
 location: Kanzlei Club

@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Between 2 Worlds"
-date:   2019-08-29 19:30:00 +0200
+date:   2019-08-29T19:30:00ZCET
 tags: [show]
 categories: show
 img : 2019-08-29-flyer.jpg

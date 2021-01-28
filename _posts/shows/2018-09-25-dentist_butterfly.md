@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Sporeadic Fungi Improv"
-date:   2018-09-25 20:00:00 +0100
+date:   2018-09-25T20:00:00ZCET
 tags: [show]
 categories: show
 img : 2018-09-25-flyer.png

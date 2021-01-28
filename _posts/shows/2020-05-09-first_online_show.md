@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "First online Improv show"
-date:   2020-05-09 21:00:00 +0000
+date:   2020-05-09T21:00:T20:00:00ZCET
 doors_open: "21:00"
 time_end: "21:30"
 location: From your confy couch via the Interweb

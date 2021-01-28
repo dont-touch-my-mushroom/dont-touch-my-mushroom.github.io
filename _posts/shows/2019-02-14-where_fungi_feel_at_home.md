@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Where fungi feel at home..."
-date:   2019-02-14 20:00:00 +0100
+date:   2019-02-14T20:00:00ZCET
 tags: [show]
 categories: show
 img : 2019-02-14-flyer.png

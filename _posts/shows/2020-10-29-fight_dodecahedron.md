@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Improfight: Don't Touch My Mushroom VS Dodecahedron"
-date:   2020-10-29 20:00:00 +0000
+date:   2020-10-29T20:00:00ZCET
 doors_open: "19:50"
 time_end: "22:00"
 location: Jenseits im Viadukt

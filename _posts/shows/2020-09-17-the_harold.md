@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "The Harold"
-date:   2020-09-17 20:00:00 +0000
+date:   2020-09-17T20:00:00ZCET
 doors_open: "19:50"
 time_end: "22:00"
 location: Jenseits im Viadukt

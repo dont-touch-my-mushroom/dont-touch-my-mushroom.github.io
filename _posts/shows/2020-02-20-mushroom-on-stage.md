@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Mushrooms on Stage"
-date:   2020-02-20 20:00:00 +0100
+date:   2020-02-20T20:00:00ZCET
 doors_open: "19:50"
 time_end: "22:00"
 location: Jenseits im Viadukt

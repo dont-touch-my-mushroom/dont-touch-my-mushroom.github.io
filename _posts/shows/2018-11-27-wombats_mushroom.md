@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Improv Tales of 1001 Night"
-date:   2018-11-27 20:00:00 +0100
+date:   2018-11-27T20:00:00ZCET
 tags: [show]
 categories: show
 img : 2018-11-27-flyer.png
