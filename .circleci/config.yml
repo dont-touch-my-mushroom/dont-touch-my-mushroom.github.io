@@ -14,6 +14,9 @@ jobs:
           fingerprints:
             - "9f:0a:e4:f2:41:a5:81:53:ec:d2:89:4f:df:34:b6:40"
       - checkout
+      - run:
+          name: Install rsync
+          command: apt update && apt install -y rsync
       - ruby/install-deps:
           bundler-version: '2.1.4'
       - run:
