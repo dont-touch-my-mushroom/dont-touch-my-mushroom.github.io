@@ -4,7 +4,7 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2021-01-28T00:08:39+00:00</updated>
+ <updated>2021-01-28T20:50:49+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -57,7 +57,7 @@
    <title>Online workshop: One offer at a time</title>
    <link href="http://localhost:4000/stephen"/>
    <id>http://localhost:4000/stephen</id>
-   <updated>2020-03-24T18:30:00+00:00</updated>
+   <updated>2020-03-24T19:30:00+00:00</updated>
    <content type="html">&lt;p&gt;No virus is going to keep us from doing Improv! Now that most of us are secluded at home we should adapt and do things that keep us sane.&lt;!--more--&gt; I would go insane without improv and so we decided to contact international improvisers to give us workshops through VC. The...</content>
  </entry>
 
@@ -67,7 +67,7 @@
    <title>Your body can create 1001 characters!</title>
    <link href="http://localhost:4000/cedric2"/>
    <id>http://localhost:4000/cedric2</id>
-   <updated>2020-02-23T09:00:00+00:00</updated>
+   <updated>2020-02-23T10:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Change your voice, play with your face, transform your attitude, your body is a formidable metamorphosing tool!.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Through guided exercises based on Lecoq’s work, we will discover the power of every muscle and the thousand forms your body can take to personify characters you didn’t imagine playing. They are all...</content>
  </entry>
 
@@ -77,7 +77,7 @@
    <title>Mime and object work</title>
    <link href="http://localhost:4000/cedric1"/>
    <id>http://localhost:4000/cedric1</id>
-   <updated>2020-02-22T09:00:00+00:00</updated>
+   <updated>2020-02-22T10:00:00+00:00</updated>
    <content type="html">&lt;p&gt;This workshop focuses on a side-skill : miming and object and space work.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Having a clear vision of your environment, the objects and furnitures that are around, the size and weight of the mimes you use, is an helpful friend to make your stories more true to you, your partners...</content>
  </entry>
 
@@ -87,7 +87,7 @@
    <title>Mushrooms on Stage</title>
    <link href="http://localhost:4000/mushroom-on-stage"/>
    <id>http://localhost:4000/mushroom-on-stage</id>
-   <updated>2020-02-20T19:00:00+00:00</updated>
+   <updated>2020-02-20T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! You will not walk out smarter, but you will walk out happier! &lt;!--more--&gt; Doors open at 19:50. Show duration 20:00 -...</content>
  </entry>
 
@@ -97,7 +97,7 @@
    <title>Wombats vs Mushrooms - Impro Battle</title>
    <link href="http://localhost:4000/wombats-battle"/>
    <id>http://localhost:4000/wombats-battle</id>
-   <updated>2020-01-23T19:00:00+00:00</updated>
+   <updated>2020-01-23T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;The prophecy says that in 2020 a new generation of improv show will emerge. Only the bravest improvisers will dare challenge the mighty &lt;strong&gt;Don’t Touch My Mushroom&lt;/strong&gt;. In this first edition, the &lt;strong&gt;Wisdom of Wombats&lt;/strong&gt; have answered the calling. Who will become the winner of the first &lt;strong&gt;Improv Battle&lt;/strong&gt;? &lt;!--more--&gt;...</content>
  </entry>
 
@@ -107,7 +107,7 @@
    <title>Mushroom Harvest</title>
    <link href="http://localhost:4000/harvest"/>
    <id>http://localhost:4000/harvest</id>
-   <updated>2019-11-13T19:00:00+00:00</updated>
+   <updated>2019-11-13T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! &lt;!--more--&gt; Thanksgiving can be the land of any inspiration. Come for a fantastical time full of unexpected surprises. You give us...</content>
  </entry>
 
