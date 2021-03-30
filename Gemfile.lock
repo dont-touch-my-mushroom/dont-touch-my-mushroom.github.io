@@ -34,7 +34,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -65,7 +65,7 @@ DEPENDENCIES
   jekyll (~> 3.8)
   jekyll-feed (~> 0.6)
   jekyll-paginate
-  kramdown (>= 2.3.0)
+  kramdown (>= 2.3.1)
   kramdown-parser-gfm
 
 RUBY VERSION
