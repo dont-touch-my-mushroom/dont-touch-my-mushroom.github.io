@@ -5,10 +5,22 @@
         <description>Don't Touch My Mushroom - </description>
         <link></link>
         <link></link>
-        <lastBuildDate>2021-07-20T00:09:36+00:00</lastBuildDate>
-        <pubDate>2021-07-20T00:09:36+00:00</pubDate>
+        <lastBuildDate>2021-07-20T16:34:15+00:00</lastBuildDate>
+        <pubDate>2021-07-20T16:34:15+00:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>A new life!</title>
+                <description>&lt;p&gt;The mushrooms are back on 2021!
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! Come for a fantastical time full of unexpected surprises.&lt;/p&gt;
+</description>
+                <link>/new_life</link>
+                <guid>/new_life</guid>
+                <pubDate>2021-09-30T20:00:00+00:00</pubDate>
+        </item>
 
         <item>
                 <title>Improfight: Don't Touch My Mushroom VS Dodecahedron</title>

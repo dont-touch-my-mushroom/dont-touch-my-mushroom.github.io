@@ -4,12 +4,26 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2021-07-20T00:09:36+00:00</updated>
+ <updated>2021-07-20T16:34:15+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>A new life!</title>
+   <link href="http://localhost:4000/new_life"/>
+   <id>http://localhost:4000/new_life</id>
+   <updated>2021-09-30T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;The mushrooms are back on 2021!
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! Come for a fantastical time full of unexpected surprises.&lt;/p&gt;
+</content>
+ </entry>
 
  
 
@@ -99,16 +113,6 @@
    <id>http://localhost:4000/wombats-battle</id>
    <updated>2020-01-23T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;The prophecy says that in 2020 a new generation of improv show will emerge. Only the bravest improvisers will dare challenge the mighty &lt;strong&gt;Don’t Touch My Mushroom&lt;/strong&gt;. In this first edition, the &lt;strong&gt;Wisdom of Wombats&lt;/strong&gt; have answered the calling. Who will become the winner of the first &lt;strong&gt;Improv Battle&lt;/strong&gt;? &lt;!--more--&gt;...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Mushroom Harvest</title>
-   <link href="http://localhost:4000/harvest"/>
-   <id>http://localhost:4000/harvest</id>
-   <updated>2019-11-13T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! &lt;!--more--&gt; Thanksgiving can be the land of any inspiration. Come for a fantastical time full of unexpected surprises. You give us...</content>
  </entry>
 
  

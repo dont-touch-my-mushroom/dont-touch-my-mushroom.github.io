@@ -17,6 +17,7 @@
 /page2/
 /page3/
 
+/new_life
 /fight_dodecahedron
 /ZIC_theater_sports
 /the_harold
