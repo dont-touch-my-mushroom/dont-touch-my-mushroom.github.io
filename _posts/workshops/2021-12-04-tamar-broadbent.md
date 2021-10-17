@@ -12,7 +12,7 @@ categories: workshop
 img : 2021-12-04-tam.png
 ticket_cost: "250CHF"
 ticket_url: "https://eventfrog.ch/de/p/kurse-seminare/kunst-kultur/premise-game-in-improv-scenes-with-tamar-broadbent-6855506148012317018.html"
-#facebook: "https://www.facebook.com/events/269308440735579/"
+facebook: "https://www.facebook.com/events/931909901056188/"
 location_iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2700.9756943550155!2d8.494274716258431!3d47.39290711070734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900bc30739068d%3A0x8e14214a7c3f08b6!2sTheater%20Ida!5e0!3m2!1sen!2sus!4v1634481986898!5m2!1sen!2sus"
 #instructor_review: ""
 instructor_bio: "Tamar has worked as a main stage performer at the renowned improv comedy theatre Boom Chicago. She performed long form (game-based and narrative), short form and musical improv five nights a week, and wrote sketches, stand up and songs for the theatre.
@@ -29,4 +29,4 @@ Do you want to be able to pull ideas from an opening and use them to initiate sc
 
 In this two-day workshop, Tamar will introduce you to the core components of premise improv. You’ll learn how to pull an idea from a monologue and use it to initiate an improv scene, how to discover and play game with your scene partner, how to invest in the choices you and your partner make and maximise their potential and how to play believable, committed characters that you could see in a sitcom!
 
-**The workshop with end with a student show on Sunday**
+**The workshop will end with a student show on Sunday**
