@@ -4,12 +4,22 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2021-10-17T00:09:34+00:00</updated>
+ <updated>2021-10-17T15:14:29+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>PREMISE + GAME in IMPROV SCENES</title>
+   <link href="http://localhost:4000/tam"/>
+   <id>http://localhost:4000/tam</id>
+   <updated>2021-12-04T10:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Do you want to be able to pull ideas from an opening and use them to initiate scenes?&lt;!--more--&gt; Do you fancy yourself as having a ‘writer’s brain’ and want to channel that to make your scenes even stronger? Do you want your improv scenes to look like masterful comedy sketches?!&lt;/p&gt;...</content>
+ </entry>
 
  
 
@@ -103,16 +113,6 @@
    <id>http://localhost:4000/mushroom-on-stage</id>
    <updated>2020-02-20T20:00:01+00:00</updated>
    <content type="html">&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! You will not walk out smarter, but you will walk out happier! &lt;!--more--&gt; Doors open at 19:50. Show duration 20:00 -&amp;gt;...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Wombats vs Mushrooms - Impro Battle</title>
-   <link href="http://localhost:4000/wombats-battle"/>
-   <id>http://localhost:4000/wombats-battle</id>
-   <updated>2020-01-23T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;The prophecy says that in 2020 a new generation of improv show will emerge. Only the bravest improvisers will dare challenge the mighty &lt;strong&gt;Don’t Touch My Mushroom&lt;/strong&gt;. In this first edition, the &lt;strong&gt;Wisdom of Wombats&lt;/strong&gt; have answered the calling. Who will become the winner of the first &lt;strong&gt;Improv Battle&lt;/strong&gt;? &lt;!--more--&gt;...</content>
  </entry>
 
  
