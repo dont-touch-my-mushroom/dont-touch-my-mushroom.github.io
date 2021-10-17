@@ -4,7 +4,7 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2021-10-17T15:14:29+00:00</updated>
+ <updated>2021-10-17T15:17:05+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
@@ -15,8 +15,8 @@
 
  <entry>
    <title>PREMISE + GAME in IMPROV SCENES</title>
-   <link href="http://localhost:4000/tam"/>
-   <id>http://localhost:4000/tam</id>
+   <link href="http://localhost:4000/tamar-broadbent"/>
+   <id>http://localhost:4000/tamar-broadbent</id>
    <updated>2021-12-04T10:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Do you want to be able to pull ideas from an opening and use them to initiate scenes?&lt;!--more--&gt; Do you fancy yourself as having a ‘writer’s brain’ and want to channel that to make your scenes even stronger? Do you want your improv scenes to look like masterful comedy sketches?!&lt;/p&gt;...</content>
  </entry>

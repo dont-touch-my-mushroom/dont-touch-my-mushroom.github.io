@@ -17,7 +17,7 @@
 /page2/
 /page3/
 
-/tam
+/tamar-broadbent
 /new_life
 /fight_dodecahedron
 /ZIC_theater_sports
