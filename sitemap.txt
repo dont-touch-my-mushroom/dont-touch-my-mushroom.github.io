@@ -4,7 +4,6 @@
 /about/
 /atom.xml
 /contact
-/improv
 /
 /mailing-list/
 /css/main.css
