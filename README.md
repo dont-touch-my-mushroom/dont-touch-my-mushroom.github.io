@@ -17,6 +17,12 @@ docker-compose up
 The page will be served on http://localhost:4000
 It will pick up changes in code and refresh the page.
 
+#### Updating the gems file
+You can attach a shell into the running docker container and do:
+```
+bundle update
+```
+
 ### Using nix
 
 #### Install nix
