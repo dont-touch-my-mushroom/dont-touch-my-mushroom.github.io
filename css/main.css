@@ -85,3 +85,13 @@ a:hover {
 .no-padding-sides {
   padding-left: 0;
   padding-right: 0; }
+
+.logo-container {
+  text-align: center; }
+  .logo-container .page-logo {
+    max-height: 400px;
+    width: unset; }
+
+.video-embed {
+  margin: 40px;
+  text-align: center; }
