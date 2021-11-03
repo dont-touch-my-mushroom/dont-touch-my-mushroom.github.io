@@ -96,7 +96,7 @@ a:hover {
   margin: 40px;
   text-align: center; }
 
-ul li {
+.page ul li {
   list-style-type: circle;
   list-style-position: inside;
   padding: 5px 20px; }
