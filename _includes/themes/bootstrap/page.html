@@ -1,6 +1,12 @@
 
 
-    <div class="mb-60"></div>
+  <div class="mb-60"></div>
+  {% if page.logo %}
+  <div class="container logo-container">
+    <img src="/assets/images/{{ page.logo }}" alt="Logo" class="page-logo"/>
+  </div>
+  <div class="mb-60"></div>
+  {% endif %}
   <div id = "blog" class="container">
     {{ content }}
   </div>

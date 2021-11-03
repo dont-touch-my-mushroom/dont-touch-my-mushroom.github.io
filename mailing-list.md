@@ -3,9 +3,14 @@ layout: page
 title: Mailing List
 permalink: /mailing-list/
 group: navigation
+logo: mailing_list_logo.png
 ---
 
 # Mailing list
+
+<!-- <img src="/assets/images/mailing_list_logo.png" alt="Zurich Improv logo" width="200"/> -->
+
+<!-- ![Zurich Improv logo](/assets/images/mailing_list_logo.png) -->
 
 We created a mailing list to share information on Improv shows and workshops in and around Zurich.
 
