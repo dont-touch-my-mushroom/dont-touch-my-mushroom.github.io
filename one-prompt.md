@@ -17,3 +17,46 @@ The same suggestions are given to multiple teams so that they can show off their
 
 If you are interested in participating, let us know via [this form](https://docs.google.com/forms/d/e/1FAIpQLSezZ2os-ZeV7WVZD57qIkAf624khSReR3VNQmp6lf2YPm9E1w/viewform?usp=sf_link) or via our [contact form](/contact).
 
+## Credits
+
+One Prompt could not have happened without the help of many people!
+
+### Actors
+
+* Virginie Emery / Kaleidoscope
+* Gabriele Nosatti / Kaleidoscope
+* Daniel / [Das Boot Impro](https://das-boot-impro.ch)
+* Linda Beciri / [Das Boot Impro](https://das-boot-impro.ch)
+* Tomi Gustaf
+* Jon Conan (Don't Touch My Mushroom)
+* Abe Wits (Don't Touch My Mushroom)
+
+### Production
+
+* Idea & Production: Peter Kolloch
+* Camera/Sound/Light
+    * Kathrin Köhler
+    * Peter Kolloch
+* Filming day support
+    * Abe Wits
+    * Jon Conan
+* Additional Equipment: Blaz Bratanic, Gabriele Nosatti
+* Most of the Equipment: Peter Kolloch
+* Filmed in Theater Ida, thank you for advice & the reasonable rates! Special thanks to Daniela Landert for answering all the questions...
+* Room rent & snacks: Paid by the actors/Don’t Touch My Mushroom
+
+### Planning
+
+* Peter Kolloch
+* Henar Martin-Sanz
+* Abe Wits
+* Jon Conan
+
+### Post-Production
+
+* Screening
+    * Henar Martin-Sanz
+    * David Kostenwein
+* Logo Design
+    * One Prompt: David Kostenwein
+* Editor: Peter Kolloch
