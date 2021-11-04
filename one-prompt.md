@@ -6,12 +6,12 @@ group: navigation
 # logo: oneprompt_logo.png
 ---
 
+<div  class="video-embed">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEdb1s4E16E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 One Prompt is a YouTube video project of “Don’t Touch My Mushroom”: One prompt to inspire them all.
 The same suggestions are given to multiple teams so that they can show off their individual style and interpretation.
-
-<div  class="video-embed">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EEdb1s4E16E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 [Subscribe](https://www.youtube.com/channel/UCvBvCWsbElrhb-tSF5JZEVg) not to miss any videos!
 
