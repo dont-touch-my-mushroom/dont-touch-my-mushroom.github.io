@@ -59,4 +59,5 @@ One Prompt could not have happened without the help of many people!
     * David Kostenwein
 * Logo Design
     * One Prompt: David Kostenwein
+    * Don’t Touch My Mushroom: Franziska Schreiber
 * Editor: Peter Kolloch
