@@ -30,3 +30,23 @@ Do you want to be able to pull ideas from an opening and use them to initiate sc
 In this two-day workshop, Tamar will introduce you to the core components of premise improv. You’ll learn how to pull an idea from a monologue and use it to initiate an improv scene, how to discover and play game with your scene partner, how to invest in the choices you and your partner make and maximise their potential and how to play believable, committed characters that you could see in a sitcom!
 
 **The workshop will end with a student show on Sunday**
+
+### Show and student case
+
+![tam-show](/assets/images/tam_show.png)
+
+A strong female lead (detective) faces the toughest case of her career in this fast-paced, action-packed and utterly ridiculous character comedy show from Tamar Broadbent (BBC Radio 4, Boom Chicago). ‘Presence and charisma to burn’ ★★★★ Chortle. ‘Brings the house down' ★★★★ The Skinny. 
+
+This show will be preceded by a student showcase from improvisers who participated on Tamar’s weekend workshop. 
+
+🎭 Tamar Broadbent
+
+📆  December 5th 
+
+📍  Theater Ida (Aargauerstrasse 80)
+
+🕗  Doors open at 18:15. Show starts at 18:30
+
+📃Entrance only with valid Covid certificate.
+
+🎟  Buy tickets [here](https://eventfrog.ch/stacey_solo)  (20.- / 10.- students, seniors, Kulturlegi)
