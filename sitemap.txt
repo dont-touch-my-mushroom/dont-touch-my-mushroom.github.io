@@ -17,6 +17,8 @@
 /page2/
 /page3/
 
+/penny
+/dynamo
 /tamar-broadbent
 /new_life
 /fight_dodecahedron
