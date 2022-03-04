@@ -52,7 +52,12 @@
             <li>
               <i class="fa fa-ticket icons cyan-color contact-info-icon"></i>
               {% if page.ticket_cost %}
-                {{page.ticket_cost}} <a href="{{page.ticket_url}}">Buy tickets</a>
+                {{page.ticket_cost}}
+                {%if page.eventfrog_event %}
+                  <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId={{page.eventfrog_event}}" frameborder="0" scrolling="no" width="260" height="47" class="ticket-link"></iframe>
+                {% else %}
+                  <a href="{{page.ticket_url}}" class="ticket-link">Buy tickets</a>
+                {% endif %}
               {% else %}
                 Free entrance
               {% endif %}
@@ -91,10 +96,14 @@
           <h3>Description:</h3>
           {{ content }}
 
-            {% if page.location_iframe %}
+          {%if page.eventfrog_event %}
+          <script src="https://embed.eventfrog.ch/api/scripts/embed/buybutton.js"></script><iframe src="https://embed.eventfrog.ch/de/embed/button-buy.html?eventId={{page.eventfrog_event}}" frameborder="0" scrolling="no" width="260" height="47" class="ticket-link"></iframe>
+          {% endif %}
+
+          {% if page.location_iframe %}
           <div class="mb-60"></div>
           <iframe src="{{ page.location_iframe }}" class="map" frameborder="0" style="border:0" allowfullscreen></iframe>
-              {% endif %}
+          {% endif %}
 
 
           <!-- About instructor -->
