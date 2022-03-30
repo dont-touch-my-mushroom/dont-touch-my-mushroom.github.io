@@ -4,12 +4,32 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-03-30T00:09:33+00:00</updated>
+ <updated>2022-03-30T15:49:52+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Ida Theatersport Liga</title>
+   <link href="http://localhost:4000/Ida_04-2022"/>
+   <id>http://localhost:4000/Ida_04-2022</id>
+   <updated>2022-04-29T19:30:00+00:00</updated>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.theaterida.ch/&quot;&gt;Theater Ida&lt;/a&gt; is organizing a theater sports liga with shows in English.&lt;/p&gt; &lt;!--more--&gt; &lt;p&gt;Theater Ida presents the Ida Theatersport Liga. 2 teams will compete with the weapons of improvisation theatre. The audience and jury decide and award the points. It will be tough, it will be exciting, it will...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Theater Sports by ZIC: DTMM VS ZIC</title>
+   <link href="http://localhost:4000/ZIC_04-2022"/>
+   <id>http://localhost:4000/ZIC_04-2022</id>
+   <updated>2022-04-07T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.zurichimprovcomedy.ch/&quot;&gt;Zurich Improv Comedy (ZIC)&lt;/a&gt; is organizing a theater sports show and they invited us to participate.&lt;/p&gt; &lt;!--more--&gt; &lt;p&gt;The home team, &lt;a href=&quot;https://www.zurichimprovcomedy.ch/&quot;&gt;Zurich Improv Comedy (ZIC)&lt;/a&gt;, competes in each show against a different improv group from Switzerland. The two teams improvise scenes based on audience suggestions. It is also the...</content>
+ </entry>
 
  
 
@@ -93,26 +113,6 @@
    <id>http://localhost:4000/first_online_show</id>
    <updated>2020-05-09T21:00:00+00:00</updated>
    <content type="html">&lt;p&gt;No virus is going to prevent us from doing what we like most! Don’t Touch My Mushroom adapts to the circumstances and brings us a fully online improv show experience.&lt;!--more--&gt; We might face a pandemic, technical difficulties and a confinement, but we hope we can bring a smile to your...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Online workshop: One offer at a time</title>
-   <link href="http://localhost:4000/stephen"/>
-   <id>http://localhost:4000/stephen</id>
-   <updated>2020-03-24T19:30:00+00:00</updated>
-   <content type="html">&lt;p&gt;No virus is going to keep us from doing Improv! Now that most of us are secluded at home we should adapt and do things that keep us sane.&lt;!--more--&gt; I would go insane without improv and so we decided to contact international improvisers to give us workshops through VC. The...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Your body can create 1001 characters!</title>
-   <link href="http://localhost:4000/cedric2"/>
-   <id>http://localhost:4000/cedric2</id>
-   <updated>2020-02-23T10:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;Change your voice, play with your face, transform your attitude, your body is a formidable metamorphosing tool!.&lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;Through guided exercises based on Lecoq’s work, we will discover the power of every muscle and the thousand forms your body can take to personify characters you didn’t imagine playing. They are all...</content>
  </entry>
 
  

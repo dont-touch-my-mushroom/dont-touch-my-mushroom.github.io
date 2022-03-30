@@ -16,7 +16,10 @@
 /feed.xml
 /page2/
 /page3/
+/page4/
 
+/Ida_04-2022
+/ZIC_04-2022
 /penny
 /dynamo
 /tamar-broadbent
