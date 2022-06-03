@@ -5,10 +5,23 @@
         <description>Don't Touch My Mushroom - </description>
         <link></link>
         <link></link>
-        <lastBuildDate>2022-06-02T00:09:33+00:00</lastBuildDate>
-        <pubDate>2022-06-02T00:09:33+00:00</pubDate>
+        <lastBuildDate>2022-06-03T17:44:25+00:00</lastBuildDate>
+        <pubDate>2022-06-03T17:44:25+00:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Double feature</title>
+                <description>&lt;p&gt;In this very special double feature, we present two unique improv shows in one fantastic night.
+&lt;!--more--&gt;
+First, Don’t Touch My Mushroom Improv will play their new improvised format “The Gathering” for the first time ever. It’s a show about a dramatic, life changing event, gathering friends and enemies, envious colleagues and backstabbing family, secret lovers and open haters. What happens at this event is a mystery to all of us. But we will find out together in “The Gathering”! With the musical support of Klearjos Papanicolaou.&lt;/p&gt;
+
+&lt;p&gt;But wait there’s more! The Basic Pitches, the one and only musical improv group of Zurich, will then take the stage and will perform a fully improvised musical with all its extravaganza: Singing, dancing, drama and comedy! This is their third show ever and after two grandiose shows at Theater Ida, they are playing for the first time in the city at Jenseits! With the musical support of Izaskun.&lt;/p&gt;
+</description>
+                <link>/dobule_show</link>
+                <guid>/dobule_show</guid>
+                <pubDate>2022-06-23T20:00:00+00:00</pubDate>
+        </item>
 
         <item>
                 <title>Ida Theatersport Liga</title>

@@ -4,12 +4,22 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-06-02T00:09:33+00:00</updated>
+ <updated>2022-06-03T17:44:25+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Double feature</title>
+   <link href="http://localhost:4000/dobule_show"/>
+   <id>http://localhost:4000/dobule_show</id>
+   <updated>2022-06-23T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;In this very special double feature, we present two unique improv shows in one fantastic night. &lt;!--more--&gt; First, Don’t Touch My Mushroom Improv will play their new improvised format “The Gathering” for the first time ever. It’s a show about a dramatic, life changing event, gathering friends and enemies, envious...</content>
+ </entry>
 
  
 
@@ -103,16 +113,6 @@
    <id>http://localhost:4000/the_harold</id>
    <updated>2020-09-17T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;The Harold is a longform improvised format which emphasises patterns, themes and group discoveries instead of a traditional plot or story. Everything starts from a simple suggestion from the audience. &lt;!--more--&gt; The &lt;strong&gt;Game&lt;/strong&gt; of the scene is not predetermined. We create Games and their rules in the moment.&lt;/p&gt; &lt;p&gt;Doors open...</content>
- </entry>
-
- 
-
- <entry>
-   <title>First online Improv show</title>
-   <link href="http://localhost:4000/first_online_show"/>
-   <id>http://localhost:4000/first_online_show</id>
-   <updated>2020-05-09T21:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;No virus is going to prevent us from doing what we like most! Don’t Touch My Mushroom adapts to the circumstances and brings us a fully online improv show experience.&lt;!--more--&gt; We might face a pandemic, technical difficulties and a confinement, but we hope we can bring a smile to your...</content>
  </entry>
 
  
