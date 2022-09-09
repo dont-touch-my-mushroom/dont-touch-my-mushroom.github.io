@@ -4,12 +4,23 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2022-09-09T00:09:39+00:00</updated>
+ <updated>2022-09-09T18:19:26+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Improv Earthquake</title>
+   <link href="http://localhost:4000/earthquake"/>
+   <id>http://localhost:4000/earthquake</id>
+   <updated>2022-09-29T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Improv Earthquake!&lt;!--more--&gt; Cheer for your improviser to help them crush the opposition. Will your tectonic plate have the upper hand?&lt;/p&gt;
+</content>
+ </entry>
 
  
 
@@ -103,16 +114,6 @@
    <id>http://localhost:4000/ZIC_theater_sports</id>
    <updated>2020-10-08T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.zurichimprovcomedy.ch/&quot;&gt;Zurich Improv Comedy (ZIC)&lt;/a&gt; is organizing a theater sports show and they invited us to participate.&lt;/p&gt; &lt;!--more--&gt; &lt;p&gt;Team against team – improviser against improviser – Titan against Titan!&lt;/p&gt; &lt;p&gt;The home team, &lt;a href=&quot;https://www.zurichimprovcomedy.ch/&quot;&gt;Zurich Improv Comedy (ZIC)&lt;/a&gt;, competes in each show against a different improv group from Switzerland. The two...</content>
- </entry>
-
- 
-
- <entry>
-   <title>The Harold</title>
-   <link href="http://localhost:4000/the_harold"/>
-   <id>http://localhost:4000/the_harold</id>
-   <updated>2020-09-17T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;The Harold is a longform improvised format which emphasises patterns, themes and group discoveries instead of a traditional plot or story. Everything starts from a simple suggestion from the audience. &lt;!--more--&gt; The &lt;strong&gt;Game&lt;/strong&gt; of the scene is not predetermined. We create Games and their rules in the moment.&lt;/p&gt; &lt;p&gt;Doors open...</content>
  </entry>
 
  

@@ -18,6 +18,7 @@
 /page3/
 /page4/
 
+/earthquake
 /dobule_show
 /Ida_04-2022
 /ZIC_04-2022
