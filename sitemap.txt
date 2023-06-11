@@ -18,6 +18,7 @@
 /page3/
 /page4/
 
+/the-stranger2
 /the-stranger
 /earthquake
 /dobule_show
