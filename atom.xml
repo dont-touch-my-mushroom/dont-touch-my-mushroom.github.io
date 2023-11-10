@@ -4,12 +4,33 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2023-11-10T18:51:54+00:00</updated>
+ <updated>2023-11-10T18:55:44+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>The XxX's + musical @ Dynamo</title>
+   <link href="http://localhost:4000/dynamusical_2023"/>
+   <id>http://localhost:4000/dynamusical_2023</id>
+   <updated>2023-12-06T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;A double feature show&lt;!--more--&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;“&lt;a href=&quot;https://dont-tou.ch&quot;&gt;Don’t Touch My Mushroom&lt;/a&gt;” will be playing an improvised show about love and breakup called “The XxX’s”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“&lt;a href=&quot;https://basicpit.ch&quot;&gt;Basic Pitches&lt;/a&gt;” will be playing an improvised musical.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
 
  
 
@@ -100,20 +121,6 @@
    <id>http://localhost:4000/tamar-broadbent</id>
    <updated>2021-12-04T10:00:00+00:00</updated>
    <content type="html">&lt;p&gt;Do you want to be able to pull ideas from an opening and use them to initiate scenes?&lt;!--more--&gt; Do you fancy yourself as having a ‘writer’s brain’ and want to channel that to make your scenes even stronger? Do you want your improv scenes to look like masterful comedy sketches?!&lt;/p&gt;...</content>
- </entry>
-
- 
-
- <entry>
-   <title>A new life!</title>
-   <link href="http://localhost:4000/new_life"/>
-   <id>http://localhost:4000/new_life</id>
-   <updated>2021-09-30T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;The mushrooms are back on 2021!
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Improv is what happens when the actors don’t know what will happen: A totally spontaneous spectacle, made up on the spot and based on suggestions from the audience members! Come for a fantastical time full of unexpected surprises.&lt;/p&gt;
-</content>
  </entry>
 
  
