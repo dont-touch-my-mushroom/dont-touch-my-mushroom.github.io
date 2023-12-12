@@ -104,6 +104,8 @@ a:hover {
 .contact-info .ticket-link {
   display: block;
   margin-top: 4px; }
+.contact-info iframe.ticket-link {
+  margin-top: 16px; }
 
 .hero-content-v2 a {
   margin-bottom: 20px; }
