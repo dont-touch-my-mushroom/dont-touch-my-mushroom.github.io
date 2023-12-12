@@ -27,7 +27,11 @@
 
             <li>
               <i class="fa fa-calendar icons cyan-color contact-info-icon"></i> <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+
+            {% if !page.date2 %}
+            - <time datetime="{{ page.date2 | date_to_xmlschema }}" class="by-line">{{ page.date2 | date_to_string }}</time>
             </li>
+            {% endif %}
             <li>
               <i class="fa fa-clock-o icons cyan-color contact-info-icon"></i>
               <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">
