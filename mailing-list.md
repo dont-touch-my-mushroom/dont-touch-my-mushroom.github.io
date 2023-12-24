@@ -19,7 +19,7 @@ You can see past emails in the [archive](https://us20.campaign-archive.com/home/
 
 To subscribe, please select what describes you better:
 * **Audience**: you will only receive emails on shows in Zurich.
-* **Improviser**: then you will also receive information about workshops and options to participate.
+* **Improviser**: additionally to shows, you will also receive information about workshops and options to participate.
 
 > Note: After you sign up please check the "social" tab in gmail if you don't see a confirmation. You might want to whitelist these emails otherwise you might miss them. I promise not to send many notifications (just 1-2 per month).
 
@@ -50,7 +50,7 @@ To subscribe, please select what describes you better:
 <div class="mc-field-group input-group">
     <strong>Select your preferred communication topics: </strong>
     <ul><li><input type="radio" value="1" name="group[2631]" id="mce-group[2631]-2631-0"><label for="mce-group[2631]-2631-0">Audience: I just want to hear about Improv Shows</label></li>
-<li><input type="radio" value="2" name="group[2631]" id="mce-group[2631]-2631-1"><label for="mce-group[2631]-2631-1">Improviser: I want to hear about Workshop opportunities</label></li>
+<li><input type="radio" value="2" name="group[2631]" id="mce-group[2631]-2631-1"><label for="mce-group[2631]-2631-1">Improviser: I want to hear about Shows and Workshop opportunities</label></li>
 </ul>
 </div>
 	<div id="mce-responses" class="clear">
