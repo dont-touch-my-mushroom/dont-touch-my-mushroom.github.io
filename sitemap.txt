@@ -17,8 +17,10 @@
 /page2/
 /page3/
 /page4/
+/page5/
 
 /tamar-broadbent2024
+/xxxs-jan2024
 /dynamusical_2023
 /the-stranger2
 /the-stranger
