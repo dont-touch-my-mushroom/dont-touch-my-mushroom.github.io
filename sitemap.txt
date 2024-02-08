@@ -1,9 +1,7 @@
 
 /404
 /404
-/about/
 /atom.xml
-/contact
 /
 /mailing-list/
 /css/main.css
