@@ -4,12 +4,22 @@
  <title>Don't Touch My Mushroom</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2024-03-07T00:09:50+00:00</updated>
+ <updated>2024-03-07T20:51:43+00:00</updated>
  <author>
    <name></name>
    <uri></uri>
    <email></email>
  </author>
+
+ 
+
+ <entry>
+   <title>Double feature - Basic Pitches: Pitch us a Musical & DTMM: Shiitake Happens</title>
+   <link href="http://localhost:4000/dynamo_mar_2024"/>
+   <id>http://localhost:4000/dynamo_mar_2024</id>
+   <updated>2024-03-20T20:00:00+00:00</updated>
+   <content type="html">&lt;p&gt;Come and enjoy an evening of double the improv fun&lt;!--more--&gt; with our double feature! Two improv groups will take the stage:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;a href=&quot;https://dont-tou.ch&quot;&gt;Don’t Touch My Mushroom&lt;/a&gt; - Shiitake Happens: We don’t have mush room to advertise this show, but we assure you that a lot of shiitake will...</content>
+ </entry>
 
  
 
@@ -111,16 +121,6 @@
    <id>http://localhost:4000/ZIC_04-2022</id>
    <updated>2022-04-07T20:00:00+00:00</updated>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.zurichimprovcomedy.ch/&quot;&gt;Zurich Improv Comedy (ZIC)&lt;/a&gt; is organizing a theater sports show and they invited us to participate.&lt;/p&gt; &lt;!--more--&gt; &lt;p&gt;The home team, &lt;a href=&quot;https://www.zurichimprovcomedy.ch/&quot;&gt;Zurich Improv Comedy (ZIC)&lt;/a&gt;, competes in each show against a different improv group from Switzerland. The two teams improvise scenes based on audience suggestions. It is also the...</content>
- </entry>
-
- 
-
- <entry>
-   <title>a penny for my thoughts</title>
-   <link href="http://localhost:4000/penny"/>
-   <id>http://localhost:4000/penny</id>
-   <updated>2022-03-31T20:00:00+00:00</updated>
-   <content type="html">&lt;p&gt;An improvised play based on &lt;a href=&quot;https://www.orphicinstitute.com/&quot;&gt;a game&lt;/a&gt; where characters will try to recover their lost memories. &lt;!--more--&gt;&lt;/p&gt; &lt;p&gt;We will ask the audience to come up with “memory triggers” to help our “patients” throughout their journey.&lt;/p&gt; &lt;p&gt;The first half of the show will be short form improv games that you...</content>
  </entry>
 
  
