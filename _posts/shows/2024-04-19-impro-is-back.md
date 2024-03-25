@@ -2,7 +2,7 @@
 layout: event
 title:  "Improv is Back"
 date:   2024-04-19T19:30:00CEST
-doors_open: "19:30"
+doors_open: "19:00"
 time_end: "21:30"
 location: jenseits im Viadukt
 tags: [show]
@@ -15,7 +15,7 @@ location_iframe: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2701.316
 eventfrog_event: "7177621805040906053"
 
 ---
-Let’s celebrate the return of IMPROV to jenseits IM VIADUKT<!--more-->  with a glorious double feature of English improv and musical improv! «Don't touch my Mushroom» present a surprising fully improvised theatre show with scenes never seen before. Emotions, drama, fun and everything in between.
+Let’s celebrate the return of IMPROV to jenseits IM VIADUKT<!--more-->  with a glorious double feature of English improv and musical improv! [Don't Touch My Mushroom](https://dont-tou.ch) present a surprising fully improvised theatre show with scenes never seen before. Emotions, drama, fun and everything in between.
 
 «[Basic Pitches](https://basicpit.ch)» present a musical show like no other! Basic Pitches will improvise an entire musical, complete with chart topping songs, from a few audience suggestions.
 
